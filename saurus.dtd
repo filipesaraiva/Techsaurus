@@ -23,7 +23,7 @@
     <!ATTLIST discussion subsection (context|review|purpose|results|methodology|conclusion)>
     <!ATTLIST test subsection (materials|procedures|equipments|analisys|results)>
     <!ATTLIST conclusion subsection (context|purpose|metodology|results|conclusion)>
-    <!ATTLIST acknowledgement subsection (support|resources)>
+    <!ATTLIST acknowledgement subsection (support|resources|discussion)>
     -->
 
     <!ELEMENT entry (text, example)>

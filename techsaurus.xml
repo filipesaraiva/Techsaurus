@@ -8,5 +8,172 @@
 <!DOCTYPE saurus SYSTEM "saurus.dtd">
 
 <saurus>
-
+    <section type="abstract">
+        <subsection type="context">
+            <entry>
+                <text>There has been much recent discussion on what .... can and should look like in the future.</text>
+                <example>There has been much recent discussion on what distribution systems can and should look like in the future.</example>
+            </entry>
+            <entry>
+                <text>Terms related to this discussion include ...., and others.</text>
+                <example>Terms related to this discussion include Smart Grid, Distribution System of the Future, and others.</example>
+            </entry>
+            <entry>
+                <text>An .... has been developed for ...., and other special applications.</text>
+                <example>An open-source distribution system simulator has been developed for distributed resource planning, harmonic studies, neural-earth voltage studies, volt-var control studies, and other special applications.</example>
+            </entry>
+            <entry>
+                <text>.... brings about a need to manage .... in a way that is more active.</text>
+                <example>Connection of Distributed Generation brings about a need to manage operation of distribution networks in a way that is more active.</example>
+            </entry>
+            <entry>
+                <text>Many researches have demonstrated that the .... can have a significant, quantitative effect on its performance characteristics.</text>
+                <example>Many researches have demonstrated that the organizational design employed by an agent system can have a significant, quantitative effect on its performance characteristics.</example>
+            </entry>
+            <entry>
+                <text>.... is defined as altering the .... of .... by changing .....</text>
+                <example>Feeder reconfiguration is defined as altering the topological structures of distribution feeders by changing the open/closed states of the sectionalizing and tie switches.</example>
+            </entry>
+            <entry>
+                <text>Motivated by the ... theoretic distinction between ...., we distinguish between .... types of ....: .....</text>
+                <example>Motivated by the control theoretic distinction between controllable and uncontrollable events, we distinguish between two types of agents within a multi-agent system: controllable agents, and uncontrollable agents.</example>
+            </entry>
+            <entry>
+                <text>.... computing represents an exciting new synthesis .... for .....</text>
+                <example>Agent-based computing represents an exciting new synthesis both for artificial intelligence and, more generally, computer science.</example>
+            </entry>
+            <entry>
+                <text>It has the potential to significantly improve the .....</text>
+                <example>It has the potential to significantly improve the theory and the practice of modeling, designing, and implementing computer systems.</example>
+            </entry>
+            <entry>
+                <text>A range of .... have emerged from this line of research, each with different strengths and weakness.</text>
+                <example>A range of organizational strategies have emerged from this line of research, each with different strengths and weakness.</example>
+            </entry>
+        </subsection>
+        <subsection type="gap">
+            <entry>
+                <text>Functionally, a .... should be able to provide new abilities such as .....</text>
+                <example>Functionally, a Smart Grid should be able to provide new abilities such as self-healing, high reliability, energy management, and real-time pricing.</example>
+            </entry>
+            <entry>
+                <text>From a .... perspective, a .... will likely incorporate new technologies such as a.....</text>
+                <example>From a design perspective, a Smart Grid will likely incorporate new technologies such as advanced metering, automation, communication, distributed generation, and distributed storage.</example>
+            </entry>
+            <entry>
+                <text>In order to allow for this change, .... need to .... of how to manage .....</text>
+                <example>In order to allow for this change, DNOs need to devise strategies of how to manage generator outputs so to facilitate connection of renewable resources and maximize use of network assets.</example>
+            </entry>
+            <entry>
+                <text>In order to support the .... in terms of effective implementation of ...., .... keys technical issues need to be addressed: ....?</text>
+                <example>In order to support the power engineering community in terms of effective implementation of multi-agent system technology, two keys technical issues need to be addressed: how should/can agents, autonomous intelligent agents and societies of agents be built for power engineering applications?</example>
+            </entry>
+            <entry>
+                <text>Yet, to date, there has been little systematic analysis of what makes the .... approach such an appealing and powerful .....</text>
+                <example>Yet, to date, there has been little systematic analysis of what makes the agent-based approach such an appealing and powerful computational model.</example>
+            </entry>
+            <entry>
+                <text>Moreover, even less effort has been devoted to discussing the inherent disadvantages that stem from adopting as .... view.</text>
+                <example>Moreover, even less effort has been devoted to discussing the inherent disadvantages that stem from adopting as agent-oriented view.</example>
+            </entry>
+        </subsection>
+        <subsection type="purpose">
+            <entry>
+                <text>This paper discussed the potential impact that issues related to .... will have on .....</text>
+                <example>This paper discussed the potential impact that issues related to Smart Grid will have on distribution system design.</example>
+            </entry>
+            <entry>
+                <text>.... methods are described, in the effort to foster more collaborative research.</text>
+                <example>The software architecture and solution methods are described, in the effort to foster more collaborative research.</example>
+            </entry>
+            <entry>
+                <text>We give a .... to .... in a .....</text>
+                <example>We give a distributed algorithm to compute shortest paths in a network with changing topology.</example>
+            </entry>
+            <entry>
+                <text>In this paper the authors discuss the .... available to those wishing to implement .... to .....</text>
+                <example>In this paper the authors discuss the technical aspects of standards, tools, supporting technologies and design methodologies available to those wishing to implement a MAS solution to power engineering problem.</example>
+            </entry>
+            <entry>
+                <text>In this article we present a survey of the .... used in .....</text>
+                <example>In this article we present a survey of the major organizational paradigms used in multi-agent systems.</example>
+            </entry>
+            <entry>
+                <text>In this paper, a .... is presented which utilizes .... as a .... in order to .....</text>
+                <example>In this paper, a scheme is presented which utilizes feeder reconfiguration as a planning and/or real-time control tool in order to restructure the primary feeders for loss reduction.</example>
+            </entry>
+            <entry>
+                <text>This paper surveys recent research on .... for .....</text>
+                <example>This paper surveys recent research on programming languages and development tools for multi-agent systems.</example>
+            </entry>
+        </subsection>
+        <subsection type="methodology">
+            <entry>
+                <text>Its .... complexities are evaluated.</text>
+                <example>Its time and message complexities are evaluated.</example>
+            </entry>
+            <entry>
+                <text>Based on the authors' experience of implementing .... for ...., both the benefits and shortcomings of these technologies and approaches are discussed.</text>
+                <example>Based on the authors' experience of implementing multi-agent systems for condition monitoring and the analysis of power system disturbances, both the benefits and shortcomings of these technologies and approaches are discussed.</example>
+            </entry>
+            <entry>
+                <text>We will provide a description of ...., discuss their advantages and disadvantages, and provide examples of how they may be .....</text>
+                <example>We will provide a description of each, discuss their advantages and disadvantages, and provide examples of how they may be instantiated and maintained.</example>
+            </entry>
+            <entry>
+                <text>The .... foundation of the .... is given; the solution procedure is illustrated on .... examples.</text>
+                <example>The mathematical foundation of the scheme is given; the solution procedure is illustrated on simple examples.</example>
+            </entry>
+            <entry>
+                <text>It starts by addressing ...., followed by ...., and finally .....</text>
+                <example>It starts by addressing programming languages (delcarative, imperative, and hybrid), followed by integrated development environments, and finally platforms and frameworks.</example>
+            </entry>
+            <entry>
+                <text>Using a .... framework, this paper studies the .... in two context: in one context, ...., while in the order .....</text>
+                <example>Using a game-theoretic framework, this paper studies the design of partially controlled multi-agent systems in two context: in one context, the uncontrollable agents are expected utility maximizers, while in the order they are reinforcement learners.</example>
+            </entry>
+        </subsection>
+        <subsection type="results">
+            <entry>
+                <text></text>
+                <example></example>
+            </entry>
+        </subsection>
+        <subsection type="conclusion">
+            <entry>
+                <text>This summary will facilitate the comparative evaluation of ...., allowing .... to first recognize the spectrum of possibilities, and then guiding the selection of an appropriate .... for a particular domain and enviroment.</text>
+                <example>This summary will facilitate the comparative evaluation of organizational styles, allowing designers to first recognize the spectrum of possibilities, and then guiding the selection of an appropriate organizational design for a particular domain and enviroment.</example>
+            </entry>
+            <entry>
+                <text>The current state of these .... is described and, in some cases, indications of future directions of research are given.</text>
+                <example>The current state of these systems is described and, in some cases, indications of future directions of research are given.</example>
+            </entry>
+            <entry>
+                <text>We suggest different techniques for ...., asses their success, and examine their relationship.</text>
+                <example>We suggest different techniques for controlling agents' behavior in each domain, asses their success, and examine their relationship.</example>
+            </entry>
+        </subsection>
+    </section>
+    <section type="acknowledgement">
+        <subsection type="support">
+            <entry>
+                <text>This work was supported by ..... This support is greatfully acknowledged.</text>
+                <example>This work was supported by the Natural Sciences and Engineering Research Council of Canada (NRERC) under grants 227837-04 and 39682-05. This support is greatfully acknowledged.</example>
+            </entry>
+            <entry>
+                <text>The authors acknowledges to .... for financial support.</text>
+                <example>The authors acknowledges to CERN for financial support to this research.</example>
+            </entry>
+        </subsection>
+        <subsection type="discussion">
+            <entry>
+                <text>The author acknowledges the invaluable insights provided by ...., and also the help of the anonymous referees who gave comments on earlier versions of this work.</text>
+                <example>The author acknowledges the invaluable insights provided by the late Francis Edward Lewis, and also the help of the anonymous referees who gave comments on earlier versions of this work.</example>
+            </entry>
+            <entry>
+                <text>The helpful comments and suggestions by .... are gratefully acknowledged.</text>
+                <example>The helpful comments and suggestions by the anonymous reviewers are gratefully acknowledged.</example>
+            </entry>
+        </subsection>
+    </section>
 </saurus>
