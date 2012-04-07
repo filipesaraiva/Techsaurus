@@ -1,0 +1,33 @@
+<!--
+    DTD to Saurus
+    Copyright (C) 2012, Filipe de Oliveira Saraiva (mail@filipesaraiva.info)
+    View LICENSE file to more informations about copyright note
+-->
+
+<!DOCTYPE saurus [
+
+    <!ELEMENT saurus (section)>
+    
+    <!ELEMENT section (subsection)>
+    <!ATTLIST section type (abstract|introduction|discussion|test|conclusion|acknowledgement)>
+
+    <!ELEMENT subsection (entry)>
+    <!ATTLIST subsection type (context|gap|purpose|methodology|results|conclusion|review|justification|structure|support|resources|materials|procedures|equipments|analisys)>
+    
+    <!--
+        @TODO - categorize subsections type from section type.
+                below, the correct subsections type from section type:
+                
+    <!ATTLIST abstract subsection (context|gap|purpose|metodology|results|conclusion)>
+    <!ATTLIST introduction subsection (context|review|gap|purpose|methodology|results|justification|structure)>
+    <!ATTLIST discussion subsection (context|review|purpose|results|methodology|conclusion)>
+    <!ATTLIST test subsection (materials|procedures|equipments|analisys|results)>
+    <!ATTLIST conclusion subsection (context|purpose|metodology|results|conclusion)>
+    <!ATTLIST acknowledgement subsection (support|resources)>
+    -->
+
+    <!ELEMENT entry (text, example)>
+    <!ELEMENT text (#PCDATA)>
+    <!ELEMENT example (#PCDATA)>
+
+]>
