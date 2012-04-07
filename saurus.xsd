@@ -1,0 +1,42 @@
+<!--
+    XML Schema to Saurus
+    Copyright (C) 2012, Filipe de Oliveira Saraiva (mail@filipesaraiva.info)
+    View LICENSE file to more informations about copyright note
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="saurus" type="section" />
+
+<xs:element name="section" type="subsection">
+    <xs:attribute name="type" use="required">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="abstract"/>
+            <xs:enumeration value="introduction"/>
+            <xs:enumeration value="discussion"/>
+            <xs:enumeration value="test"/>
+            <xs:enumeration value="conclusion"/>
+            <xs:enumeration value="acknowledgement"/>
+        </xs:restriction>
+    </xs:attribute>
+</xs:element>
+
+<xs:element name="subsection" type="entry">
+    <xs:attribute name="type" use="required">
+        <xs:restriction base="xs:string">
+            
+        </xs:restriction>
+    </xs:attribute>
+</xs:element>
+
+<xs:element name="entry">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="text" type="xs:string"/>
+            <xs:element name="example" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+</xs:schema>
