@@ -50,6 +50,14 @@
 				<text>A range of .... have emerged from this line of research, each with different strengths and weakness.</text>
 				<example>A range of organizational strategies have emerged from this line of research, each with different strengths and weakness.</example>
 			</entry>
+			<entry>
+				<text>This paper presents one of applications of .... to .... of .....</text>
+				<example>This paper presents one of applications of the ant colony search method to reduce the minimun losses of distribution network.</example>
+			</entry>
+			<entry>
+				<text>This article presents an efficient .... method for .... of .....</text>
+				<example>This article presents an efficient metaheuristic method for reconfiguration of distribution systems.</example>
+			</entry>
 		</subsection>
 		<subsection type="gap">
 			<entry>
@@ -83,6 +91,10 @@
 				<example>This paper discussed the potential impact that issues related to Smart Grid will have on distribution system design.</example>
 			</entry>
 			<entry>
+				<text>This paper proposes a .... for .... for .....</text>
+				<example>This paper proposes a tabu search algorithm for the reconfiguration of distribution systems for minimizing the real power losses.</example>
+			</entry>
+			<entry>
 				<text>.... methods are described, in the effort to foster more collaborative research.</text>
 				<example>The software architecture and solution methods are described, in the effort to foster more collaborative research.</example>
 			</entry>
@@ -101,6 +113,10 @@
 			<entry>
 				<text>In this paper, a .... is presented which utilizes .... as a .... in order to .....</text>
 				<example>In this paper, a scheme is presented which utilizes feeder reconfiguration as a planning and/or real-time control tool in order to restructure the primary feeders for loss reduction.</example>
+			</entry>
+			<entry>
+				<text>In this paper, .... are proposed for these problems.</text>
+				<example>In this paper, general formulation and solution methods are proposed for these problems.</example>
 			</entry>
 			<entry>
 				<text>This paper surveys recent research on .... for .....</text>
@@ -132,11 +148,23 @@
 				<text>Using a .... framework, this paper studies the .... in two context: in one context, ...., while in the order .....</text>
 				<example>Using a game-theoretic framework, this paper studies the design of partially controlled multi-agent systems in two context: in one context, the uncontrollable agents are expected utility maximizers, while in the order they are reinforcement learners.</example>
 			</entry>
+			<entry>
+				<text>For ...., a .... is defined and it is shown that the proposed solution method for .... can also be used for .....</text>
+				<example>For load balancing, a load balance index is defined and it is shown that the proposed solution method for loss reduction can also be used for load balancing.</example>
+			</entry>
+			<entry>
+				<text>Test results are included to show .... of the proposed method.</text>
+				<example>Test results are included to show the performance of the proposed method.</example>
+			</entry>
 		</subsection>
 		<subsection type="results">
 			<entry>
-				<text></text>
-				<example></example>
+				<text>Results are presented for .... with .....</text>
+				<example>Results are presented for realistic systems with 135 and 202 buses.</example>
+			</entry>
+			<entry>
+				<text>Test results are included to show .... of the proposed method.</text>
+				<example>Test results are included to show the performance of the proposed method.</example>
 			</entry>
 		</subsection>
 		<subsection type="conclusion">
@@ -156,16 +184,68 @@
 	</section>
 	<section type="introduction">
 		<subsection type="contextualization">
+			<entry>
+				<text>In ...., .... are used for .....</text>
+				<example>In primary distribution systems, sectionalizing switches are used for protection, and to isolate a fault.</example>
+			</entry>
 		</subsection>
 		<subsection type="gap">
 		</subsection>
 		<subsection type="state of the art">
+			<entry>
+				<text>The early studies on .... were directed to .....</text>
+				<example>The early studies on the network reconfiguration were directed to the planning stage.</example>
+			</entry>
+			<entry>
+				<text>An early work on .... for .... is presented by .....</text>
+				<example>An early work on network reconfiguration for loss reduction is presented by Truman.</example>
+			</entry>
+			<entry>
+				<text>In a study done by ...., .... is given for .....</text>
+				<example>In a study done by Truman, a search algorithm is given to feeder reconfiguration.</example>
+			</entry>
+			<entry>
+				<text>In ...., a detailed recipe for .... is given by .....</text>
+				<example>In Thomas, a detailed recipe for service restoration is given by using indices developed.</example>
+			</entry>
+			<entry>
+				<text>In ...., .... proposed .... for .....</text>
+				<example>In [9], Castro proposed a simple algorithm for service restoration.</example>
+			</entry>
+			<entry>
+				<text>.... recently proposed .... for .....</text>
+				<example>Castro and Franca recently proposed modified search algorithm for service restoration.</example>
+			</entry>
+			<entry>
+				<text>.... modelled the problem of .... as ....</text>
+				<example>Baran and Wu modelled the problem of loss reduction as a integer programming problem.</example>
+			</entry>
+			<entry>
+				<text>The authors in .... outlined and validated a methodology for .....</text>
+				<example>The authors in [11] outlined and validated a methodology for optimizing the operation of distribution networks.</example>
+			</entry>
+			<entry>
+				<text>In ...., the authors have considered .... on the analysis to .....</text>
+				<example>In [11], the authors have considered time varying load on the analysis to loss reduction.</example>
+			</entry>
+			<entry>
+				<text>In ...., the authors employed .... for .....</text>
+				<example>In [11], the authors employed bidirectional feeder models for distribution systems.</example>
+			</entry>
+			<entry>
+				<text>.... techniques, particularly between .... have formed a important part of .....</text>
+				<example>Hybrid techniques, particularly between metaheuristic and mathematical programming methods have formed a important part of the nurse rostering literature.</example>
+			</entry>
 		</subsection>
 		<subsection type="importance">
 		</subsection>
 		<subsection type="purpose">
 		</subsection>
-		<subsection type="contextualization">
+		<subsection type="organization">
+			<entry>
+				<text>The organization of the rest of the paper is as follows. ..... Conclusions are given in section .....</text>
+				<example>The organization of the rest of the paper is as follows. The method is presented in section 2. Conclusions are given in section 3.</example>
+			</entry>
 		</subsection>
 	</section>
 	<section type="results and discussion">
