@@ -188,8 +188,24 @@
 				<text>In ...., .... are used for .....</text>
 				<example>In primary distribution systems, sectionalizing switches are used for protection, and to isolate a fault.</example>
 			</entry>
+			<entry>
+				<text>.... is defined as .....</text>
+				<example>A microgrid is defined as an integrated energy system.</example>
+			</entry>
+			<entry>
+				<text>In the context of ...., .... can be applied in a variety of applications, such as .....</text>
+				<example>In the context of power systems, multi-agent technologies can be applied in a variety of applications, such as to perform power system diagnosis.</example>
+			</entry>
+			<entry>
+				<text>.... consist of .....</text>
+				<example>Distribution systems consist of groups of interconnected radial circuits.</example>
+			</entry>
 		</subsection>
 		<subsection type="gap">
+			<entry>
+				<text>While several improvements may reduce the computational cost of ...., this approach becomes quickly impratical in .....</text>
+				<example>While several improvements may reduce the computational cost of mathematical programming, this approach becomes quickly impratical in mosts cases.</example>
+			</entry>
 		</subsection>
 		<subsection type="state of the art">
 			<entry>
@@ -236,10 +252,38 @@
 				<text>.... techniques, particularly between .... have formed a important part of .....</text>
 				<example>Hybrid techniques, particularly between metaheuristic and mathematical programming methods have formed a important part of the nurse rostering literature.</example>
 			</entry>
+			<entry>
+				<text>Some of the most recent work .... has implemented a .... to .....</text>
+				<example>Some of the most recent work [10, 11, 12] has implemented a multi-agent system to control microgrid generatiors.</example>
+			</entry>
 		</subsection>
 		<subsection type="importance">
+			<entry>
+				<text>Consequently, a .... is urgently needed to address these challenges.</text>
+				<example>Consequently, a new grid infrastructure is urgently needed to address these challenges.</example>
+			</entry>
 		</subsection>
 		<subsection type="purpose">
+			<entry>
+				<text>The focus of this paper is to discuss the design and implementation of .... in the context of .....</text>
+				<example>The focus of this paper is to discuss the design and implementation of a multi-agent system in the context of a distributed smart grid.</example>
+			</entry>
+			<entry>
+				<text>In particular, we will focus on .... in .....</text>
+				<example>In particular, we will focus on implementing the concept of agents in a intelligent distributed autonomous power system.</example>
+			</entry>
+			<entry>
+				<text>This paper discusses the design and implementation of a .... in the context of .....</text>
+				<example>This paper discusses the design and implementation of a genetic algorithm in the context of power systems distribution.</example>
+			</entry>
+			<entry>
+				<text>In this paper, a method employing the .... is proposed to solve the .....</text>
+				<example>In this paper, a method employing the ant colony search algorithm is proposed to solve the network reconfiguration problem.</example>
+			</entry>
+			<entry>
+				<text>In this paper, a comprehensive review on .... is presented.</text>
+				<example>In this paper, a comprehensive review on smart grids is presented.</example>
+			</entry>
 		</subsection>
 		<subsection type="organization">
 			<entry>
@@ -254,6 +298,10 @@
 		<subsection type="interpretation">
 		</subsection>
 		<subsection type="comparison">
+			<entry>
+				<text>From the computational testes results, it is observed that the .... of .... is better than .....</text>
+				<example>From the computational testes results, it is observed that the convergence property of ant colony method is better than that of other methods.</example>
+			</entry>
 		</subsection>
 		<subsection type="implications">
 		</subsection>
