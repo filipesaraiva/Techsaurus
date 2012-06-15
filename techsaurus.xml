@@ -200,11 +200,39 @@
 				<text>.... consist of .....</text>
 				<example>Distribution systems consist of groups of interconnected radial circuits.</example>
 			</entry>
+			<entry>
+				<text>Traditional .... applications of this problem are in .....</text>
+				<example>Traditional power system distribution applications of this problem are power system diagnosis and power flow calculation.</example>
+			</entry>
+			<entry>
+				<text>Another important characteristic of this problem is that .....</text>
+				<example>Another important characteristic of this problem is that power system distribution must be a tree.</example>
+			</entry>
+			<entry>
+				<text>We assume that .... is .....</text>
+				<example>We assume that power system is connected.</example>
+			</entry>
+			<entry>
+				<text>In recent years, .... have been studied for solving .....</text>
+				<example>In recent years, metaheuristic methods have been studied for solving combinatorial optimization problems.</example>
+			</entry>
 		</subsection>
 		<subsection type="gap">
 			<entry>
 				<text>While several improvements may reduce the computational cost of ...., this approach becomes quickly impratical in .....</text>
 				<example>While several improvements may reduce the computational cost of mathematical programming, this approach becomes quickly impratical in mosts cases.</example>
+			</entry>
+			<entry>
+				<text>However, such technique can encounter difficulties, such as .....</text>
+				<example>However, such technique can encounter difficulties, such as getting trapped in local minima, increased the computational complexity, and not being applicable to certain objective functions.</example>
+			</entry>
+			<entry>
+				<text>Because there are many candidate combinations in the ...., .... is a complicated problem.</text>
+				<example>Because there are many candidate combinations in the distribution system, network reconfiguration is a complicated problem.</example>
+			</entry>
+			<entry>
+				<text>These early approaches were effective in solving .... problems but were not .....</text>
+				<example>These early approaches were effective in solving small scale problems but were not flexible and were too computationally expensive to deal with large problems with many constraints.</example>
 			</entry>
 		</subsection>
 		<subsection type="state of the art">
@@ -261,6 +289,10 @@
 			<entry>
 				<text>Consequently, a .... is urgently needed to address these challenges.</text>
 				<example>Consequently, a new grid infrastructure is urgently needed to address these challenges.</example>
+			</entry>
+			<entry>
+				<text>The subject of .... has gained a great deal of attention due to .....</text>
+				<example>The subject of minimizing distribution systems losses has gained a great deal of attention due to the high cost of electrical energy.</example>
 			</entry>
 		</subsection>
 		<subsection type="purpose">
