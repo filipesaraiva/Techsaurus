@@ -197,6 +197,10 @@
 				<example>In the context of power systems, multi-agent technologies can be applied in a variety of applications, such as to perform power system diagnosis.</example>
 			</entry>
 			<entry>
+				<text>.... have shown their utility for solving a wide range of problems in different application domains</text>
+				<example>Fuzzy systems have shown their utility for solving a wide range of problems in different application domains</example>
+			</entry>
+			<entry>
 				<text>.... consist of .....</text>
 				<example>Distribution systems consist of groups of interconnected radial circuits.</example>
 			</entry>
@@ -216,6 +220,26 @@
 				<text>In recent years, .... have been studied for solving .....</text>
 				<example>In recent years, metaheuristic methods have been studied for solving combinatorial optimization problems.</example>
 			</entry>
+			<entry>
+				<text>.... techniques such as .... are popular research subjects, since they can deal with complex .... problems which are difficult to solve by classical methods.</text>
+				<example>Computational intelligence techniques such as neural networks, and genetic algorithms, are popular research subjects, since they can deal with complex engineering problems which are difficult to solve by classical methods.</example>
+			</entry>
+			<entry>
+				<text>.... approaches have attracted considerable attention in the .....</text>
+				<example>Hybrid approaches have attracted considerable attention in the computational intelligence community.</example>
+			</entry>
+			<entry>
+				<text>One of the most popular approaches is the .....</text>
+				<example>One of the most popular approaches is the hybridization between fuzzy systems and genetic algorithms.</example>
+			</entry>
+			<entry>
+				<text>Typical .... methods include .....</text>
+				<example>Typical meta-heuristic methods include simulated annealing, genetic algorithms, and others.</example>
+			</entry>
+			<entry>
+				<text>The theory of .... has received a tremendous amount of attention because of its ...., including .....</text>
+				<example>The theory of stable matching has received a tremendous amount of attention because of its many applications, including matching graduating medical students to residency programs, and matching kidney donors with recipients.</example>
+			</entry>
 		</subsection>
 		<subsection type="gap">
 			<entry>
@@ -233,6 +257,22 @@
 			<entry>
 				<text>These early approaches were effective in solving .... problems but were not .....</text>
 				<example>These early approaches were effective in solving small scale problems but were not flexible and were too computationally expensive to deal with large problems with many constraints.</example>
+			</entry>
+			<entry>
+				<text>.... have been successfully applied to solve different kinds of problems in .....</text>
+				<example>Fuzzy systems have been successfully applied to solve different kinds of problems in various application domains.</example>
+			</entry>
+			<entry>
+				<text>However, one of the challenging issues is to .... that .....</text>
+				<example>However, one of the challenging issues is to associate a system configuration that derives the QoS.</example>
+			</entry>
+			<entry>
+				<text>The subject of .... has gained a great deal of attention due to the .... and therefore, much of current research on .... has focuses on .....</text>
+				<example>The subject of minimizing distribution systems losses has gained a great deal of attention due to the high cost of electrical energy and therefore, much of current research on distribution automation has focuses on the minimun-loss configuration problem.</example>
+			</entry>
+			<entry>
+				<text>However, as a .... becomes larger, a great amount of time can be spent searching for the .....</text>
+				<example>However, as a search tree becomes larger, a great amount of time can be spent searching for the optimal solution.</example>
 			</entry>
 		</subsection>
 		<subsection type="state of the art">
@@ -259,6 +299,10 @@
 			<entry>
 				<text>.... recently proposed .... for .....</text>
 				<example>Castro and Franca recently proposed modified search algorithm for service restoration.</example>
+			</entry>
+			<entry>
+				<text>.... was presented in .....</text>
+				<example>An artificial neural network based method for feeder reconfiguration was presented in [10].</example>
 			</entry>
 			<entry>
 				<text>.... modelled the problem of .... as ....</text>
@@ -294,6 +338,30 @@
 				<text>The subject of .... has gained a great deal of attention due to .....</text>
 				<example>The subject of minimizing distribution systems losses has gained a great deal of attention due to the high cost of electrical energy.</example>
 			</entry>
+			<entry>
+				<text>This topic has attracted considerable atteintion in the .....</text>
+				<example>This topic has attracted considerable atteintion in the computation intelligence community.</example>
+			</entry>
+			<entry>
+				<text>.... techniques such as .... are popular research subjects, since they can deal with complex .... problems which are difficult to solve by classical methods.</text>
+				<example>Computational intelligence techniques such as neural networks, and genetic algorithms, are popular research subjects, since they can deal with complex engineering problems which are difficult to solve by classical methods.</example>
+			</entry>
+			<entry>
+				<text>.... approaches have attracted considerable attention in the .....</text>
+				<example>Hybrid approaches have attracted considerable attention in the computational intelligence community.</example>
+			</entry>
+			<entry>
+				<text>.... have been successfully applied to solve different kinds of problems in .....</text>
+				<example>Fuzzy systems have been successfully applied to solve different kinds of problems in various application domains.</example>
+			</entry>
+			<entry>
+				<text>The subject of .... has gained a great deal of attention due to the .....</text>
+				<example>The subject of minimizing distribution systems losses has gained a great deal of attention due to the high cost of electrical energy.</example>
+			</entry>
+			<entry>
+				<text>The theory of .... has received a tremendous amount of attention because of its ...., including .....</text>
+				<example>The theory of stable matching has received a tremendous amount of attention because of its many applications, including matching graduating medical students to residency programs, and matching kidney donors with recipients.</example>
+			</entry>
 		</subsection>
 		<subsection type="purpose">
 			<entry>
@@ -315,6 +383,14 @@
 			<entry>
 				<text>In this paper, a comprehensive review on .... is presented.</text>
 				<example>In this paper, a comprehensive review on smart grids is presented.</example>
+			</entry>
+			<entry>
+				<text>This paper reviews the classical models and the most recent trends for .....</text>
+				<example>This paper reviews the classical models and the most recent trends for genetic algorithms.</example>
+			</entry>
+			<entry>
+				<text>This paper provides an overview and a list of references on the use of .... in .....</text>
+				<example>This paper provides an overview and a list of references on the use of evolutionary algorithms in power systems and related fields.</example>
 			</entry>
 		</subsection>
 		<subsection type="organization">
