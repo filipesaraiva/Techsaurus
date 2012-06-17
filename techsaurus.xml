@@ -404,11 +404,19 @@
 		<subsection type="background">
 		</subsection>
 		<subsection type="interpretation">
+			<entry>
+				<text>Its .... characteristics is acceptable although it does not guarantee .....</text>
+				<example>Its convergence characteristics is acceptable although it does not guarantee convergence to the global optimum.</example>
+			</entry>
 		</subsection>
 		<subsection type="comparison">
 			<entry>
-				<text>From the computational testes results, it is observed that the .... of .... is better than .....</text>
+				<text>From the computational tests results, it is observed that the .... of .... is better than .....</text>
 				<example>From the computational testes results, it is observed that the convergence property of ant colony method is better than that of other methods.</example>
+			</entry>
+			<entry>
+				<text>.... are computationally very efficient than .....</text>
+				<example>Estimation methods are computationally very efficient than power flow calculation.</example>
 			</entry>
 		</subsection>
 		<subsection type="implications">
@@ -418,10 +426,34 @@
 		<subsection type="state main findings">
 		</subsection>
 		<subsection type="interpretation of the main findings">
+			<entry>
+				<text>Its .... characteristics is acceptable although it does not guarantee .....</text>
+				<example>Its convergence characteristics is acceptable although it does not guarantee convergence to the global optimum.</example>
+			</entry>
 		</subsection>
 		<subsection type="contributions">
+			<entry>
+				<text>In this paper, the authors proposed a new .....</text>
+				<example>In this paper, the authors proposed a new power distribution system named FRIENDS.</example>
+			</entry>
+			<entry>
+				<text>The .... method introduced in this paper has the following appealing properties: .....</text>
+				<example>The search method introduced in this paper has the following appealing properties: it is not exhaustive, and its involves about m power flow solutions.</example>
+			</entry>
+			<entry>
+				<text>.... aims at a .... by .....</text>
+				<example>The FRIENDS aims at a reliable power distribution system by flexibly changing the system structure.</example>
+			</entry>
+			<entry>
+				<text>.... are the other important characteristics of .....</text>
+				<example>Multi-quality supply and custmer information service are the other important characteristic of the FRIENDS.</example>
+			</entry>
 		</subsection>
 		<subsection type="further works">
+			<entry>
+				<text>The next part of this project will .....</text>
+				<example>The next part of this project will scale the microgrid installing 20 kW in two wind turbines.</example>
+			</entry>
 		</subsection>
 	</section>
 	<section type="acknowledgement">
@@ -433,6 +465,18 @@
 			<entry>
 				<text>The authors acknowledges to .... for financial support.</text>
 				<example>The authors acknowledges to CERN for financial support to this research.</example>
+			</entry>
+			<entry>
+				<text>This research is supported by .....</text>
+				<example>This research is supported by TUBITAK-TURKEY Foundation.</example>
+			</entry>
+			<entry>
+				<text>This research was supported by .....</text>
+				<example>This research was supported by National Science Foundation.</example>
+			</entry>
+			<entry>
+				<text>The authors thank the support of .... for supporting this research.</text>
+				<example>The authors thank the support of CONACYT and PROMEP for supporting this research.</example>
 			</entry>
 		</subsection>
 		<subsection type="discussion">
