@@ -444,6 +444,10 @@
 				<text>.... are newest techniques which, in spite of not being completely mature, show immense potential in .....</text>
 				<example>Genetic programming and classifier systems are newest techniques which, in spite of not being completely mature, show immense potential in power systems problem.</example>
 			</entry>
+			<entry>
+				<text>Clearly, there are many important open research issues for the realization of .....</text>
+				<example>Clearly, there are many important open research issues for the realization of smart grid communications and applications.</example>
+			</entry>
 		</subsection>
 		<subsection type="interpretation of the main findings">
 			<entry>
@@ -474,6 +478,30 @@
 				<text>This will also enhance the opportunity for the use of .... combining the potential of .....</text>
 				<example>This will also enhance the opportunity for the use of hybrid systems combining the potential of versatile tools with conventional problem-solving algorithms.</example>
 			</entry>
+			<entry>
+				<text>This illustrates the capability of a .... as a technology for .....</text>
+				<example>This illustrates the capability of a multi-agent system as a technology for managing the microgrid operation.</example>
+			</entry>
+			<entry>
+				<text>This demonstrates that the .... can be considered as a .... alternative to a .... for .....</text>
+				<example>This demonstrates that the agent's capability can be considered as a software alternative to a traditional hardware-based zonal protection system for isolating a microgrid.</example>
+			</entry>
+			<entry>
+				<text>It seems that the use of .... does significantly .... required to obtain a good .....</text>
+				<example>It seems that the use of the extraction process does significantly reduced the number of generations required to obtain a good set of rules.</example>
+			</entry>
+			<entry>
+				<text>The experiments have shown that the .... does have some advantages in terms of .....</text>
+				<example>The experiments have shown that the fuzzy genetic algorithm does have some advantages in terms of effectiveness.</example>
+			</entry>
+			<entry>
+				<text>However, more research is needed to further improve the .... and to extend it to a .....</text>
+				<example>However, more research is needed to further improve the algorithm and to extend it to a more general situation.</example>
+			</entry>
+			<entry>
+				<text>.... form an appropriate technology to solve the resulting .....</text>
+				<example>Multi-agent technology and electronic markets form an appropriate technology to solve the resulting coordination problem.</example>
+			</entry>
 		</subsection>
 		<subsection type="contributions">
 			<entry>
@@ -500,6 +528,26 @@
 				<text>As an example, the paper also describes and presents some interesting results on a .... approach to the .....</text>
 				<example>As an example, the paper also describes and presents some interesting results on a genetic algorithm approach to the planning of the operation of a hydrothermal system.</example>
 			</entry>
+			<entry>
+				<text>In this paper, .... technologies and requirements for .... have been discussed.</text>
+				<example>In this paper, communications technologies and requirements for smart grid have been discussed.</example>
+			</entry>
+			<entry>
+				<text>The .... is introduced and .... are presented.</text>
+				<example>The QoS mechanism is introduced and standards are presented.</example>
+			</entry>
+			<entry>
+				<text>It seems that the use of .... does significantly .... required to obtain a good .....</text>
+				<example>It seems that the use of the extraction process does significantly reduced the number of generations required to obtain a good set of rules.</example>
+			</entry>
+			<entry>
+				<text>The .... proposed in this article is a .... for .... in .....</text>
+				<example>The PowerMatcher concept proposed in this article is a market-based control concept for supply and demand matching in electricity networks.</example>
+			</entry>
+			<entry>
+				<text>The presented simulation case shows that this concept is capable of .... on .....</text>
+				<example>The presented simulation case shows that this concept is capable of utilizing flexibility in device operation via software agent bids on an electronic power market.</example>
+			</entry>
 		</subsection>
 		<subsection type="further works">
 			<entry>
@@ -521,6 +569,10 @@
 			<entry>
 				<text>This indicate that the .... can be easily adapted for .....</text>
 				<example>This indicate that the algorithm can be easily adapted for hybridization with other techniques.</example>
+			</entry>
+			<entry>
+				<text>Future work includes .....</text>
+				<example>Future work includes discussion of grid characteristics, architetures, key players, and research challenges.</example>
 			</entry>
 		</subsection>
 	</section>
