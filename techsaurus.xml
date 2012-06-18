@@ -467,6 +467,10 @@
 				<example>The excellent results being produced by genetic algorithm will inevitably lead to more practical applications and to a better understanding of the advantages and weaknesses of these types of approaches.</example>
 			</entry>
 			<entry>
+				<text>This indicate that the .... can be easily adapted for .....</text>
+				<example>This indicate that the algorithm can be easily adapted for hybridization with other techniques.</example>
+			</entry>
+			<entry>
 				<text>This will also enhance the opportunity for the use of .... combining the potential of .....</text>
 				<example>This will also enhance the opportunity for the use of hybrid systems combining the potential of versatile tools with conventional problem-solving algorithms.</example>
 			</entry>
@@ -501,6 +505,22 @@
 			<entry>
 				<text>The next part of this project will .....</text>
 				<example>The next part of this project will scale the microgrid installing 20 kW in two wind turbines.</example>
+			</entry>
+			<entry>
+				<text>Thus, we will investigate whether our .... approach can be used to .....</text>
+				<example>Thus, we will investigate whether our agent-based management approach can be used to flatten peaks locally.</example>
+			</entry>
+			<entry>
+				<text>As part of this work, we also intend to investigate the .... for .....</text>
+				<example>As part of this work, we also intend to investigate the market efficient for different proportions of the population adopting micro-storage devices.</example>
+			</entry>
+			<entry>
+				<text>An area of future research is .... using .....</text>
+				<example>An area of future research is the smart grid simulation using multi-agent system.</example>
+			</entry>
+			<entry>
+				<text>This indicate that the .... can be easily adapted for .....</text>
+				<example>This indicate that the algorithm can be easily adapted for hybridization with other techniques.</example>
 			</entry>
 		</subsection>
 	</section>
