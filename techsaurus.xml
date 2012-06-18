@@ -424,11 +424,51 @@
 	</section>
 	<section type="conclusion">
 		<subsection type="state main findings">
+			<entry>
+				<text>The .... became an important research area during the .....</text>
+				<example>The hybridization between fuzzy system and genetic algorithm became an important research area during the last decade.</example>
+			</entry>
+			<entry>
+				<text>At the present, it is a mature research area, where researchers need to reflect in order to advance towards strengths and distinctive features of .....</text>
+				<example>At the present, it is a mature research area, where researchers need to reflect in order to advance towards strengths and distinctive features of the genetic algorithm.</example>
+			</entry>
+			<entry>
+				<text>Over the last years, interest in .... has risen amongst researchers in .....</text>
+				<example>Over the last years, interest in evolutionary computation has risen among researchers in power systems and related fields.</example>
+			</entry>
+			<entry>
+				<text>Most of the applications are based on ...., which are a very attractive technique because of their ease of use and flexibility, allowing the utilization of .... software widely available.</text>
+				<example>Most of the applications are based on genetic algorithm, which are a very attractive technique because of their ease of use and flexibility, allowing the utilization of generic optimization software widely available.</example>
+			</entry>
+			<entry>
+				<text>.... are newest techniques which, in spite of not being completely mature, show immense potential in .....</text>
+				<example>Genetic programming and classifier systems are newest techniques which, in spite of not being completely mature, show immense potential in power systems problem.</example>
+			</entry>
 		</subsection>
 		<subsection type="interpretation of the main findings">
 			<entry>
 				<text>Its .... characteristics is acceptable although it does not guarantee .....</text>
 				<example>Its convergence characteristics is acceptable although it does not guarantee convergence to the global optimum.</example>
+			</entry>
+			<entry>
+				<text>The .... showed to be efficient, and good final results were obtained with .....</text>
+				<example>The neighborhood limitation criterion adopted showed to be efficient, and good final results were obtained with small number of neighbor configurations.</example>
+			</entry>
+			<entry>
+				<text>The proposed .... showed to be efficient and good quality configurations were obtained for .....</text>
+				<example>The proposed algorithm showed to be efficient and good quality configurations were obtained for all tested systems.</example>
+			</entry>
+			<entry>
+				<text>This approach has all the advantages already demonstrated by .... like, for example, .....</text>
+				<example>This approach has all the advantages already demonstrated by genetic algorithm like, for example, allowing the inclusion of non-linearities in a discrete, complex enviroment.</example>
+			</entry>
+			<entry>
+				<text>The .... results being produced by .... will inevitably lead to more practical applications and to a better understanding of the advantages and weaknesses of these types of approaches.</text>
+				<example>The excellent results being produced by genetic algorithm will inevitably lead to more practical applications and to a better understanding of the advantages and weaknesses of these types of approaches.</example>
+			</entry>
+			<entry>
+				<text>This will also enhance the opportunity for the use of .... combining the potential of .....</text>
+				<example>This will also enhance the opportunity for the use of hybrid systems combining the potential of versatile tools with conventional problem-solving algorithms.</example>
 			</entry>
 		</subsection>
 		<subsection type="contributions">
@@ -448,6 +488,14 @@
 				<text>.... are the other important characteristics of .....</text>
 				<example>Multi-quality supply and custmer information service are the other important characteristic of the FRIENDS.</example>
 			</entry>
+			<entry>
+				<text>Our research demonstrates that a .... approach is feasible and has also excellent potential in some .... problems.</text>
+				<example>Our research demonstrates that a mutational-based evolutionary programming approach is feasible and has also excellent potential in some combinatorial problems.</example>
+			</entry>
+			<entry>
+				<text>As an example, the paper also describes and presents some interesting results on a .... approach to the .....</text>
+				<example>As an example, the paper also describes and presents some interesting results on a genetic algorithm approach to the planning of the operation of a hydrothermal system.</example>
+			</entry>
 		</subsection>
 		<subsection type="further works">
 			<entry>
@@ -465,6 +513,10 @@
 			<entry>
 				<text>The authors acknowledges to .... for financial support.</text>
 				<example>The authors acknowledges to CERN for financial support to this research.</example>
+			</entry>
+			<entry>
+				<text>The authors acknowledged the financial support provided by .....</text>
+				<example>The authors acknowledged the financial support provided by CAPES.</example>
 			</entry>
 			<entry>
 				<text>This research is supported by .....</text>
