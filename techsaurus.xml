@@ -91,6 +91,10 @@
 				<example>This paper discussed the potential impact that issues related to Smart Grid will have on distribution system design.</example>
 			</entry>
 			<entry>
+				<text>In this context, this paper is an .... on the potential of applying .... for addressing relevant and timely open problems in emerging areas that pertain to .....</text>
+				<example>In this context, this paper is an overview on the potential of applying game theory for addressing relevant and timely open problems in emerging areas that pertain to the smart grid.</example>
+			</entry>
+			<entry>
 				<text>This paper proposes a .... for .... for .....</text>
 				<example>This paper proposes a tabu search algorithm for the reconfiguration of distribution systems for minimizing the real power losses.</example>
 			</entry>
@@ -425,6 +429,14 @@
 	<section type="conclusion">
 		<subsection type="state main findings">
 			<entry>
+				<text>This paper focuses on ...., for the particular configuration arising in .....</text>
+				<example>This paper focuses on the SSE tool, for the particular configuration arising in distribution substations directly feeding MV radial feeders.</example>
+			</entry>
+			<entry>
+				<text>This paper presented the .... to .... for .... using .....</text>
+				<example>This paper presented the generalized architecture of an IT system to provide energy-as-a-service for PHEVs and power producers using the notion of a token as its internal currency.</example>
+			</entry>
+			<entry>
 				<text>The .... became an important research area during the .....</text>
 				<example>The hybridization between fuzzy system and genetic algorithm became an important research area during the last decade.</example>
 			</entry>
@@ -447,6 +459,26 @@
 			<entry>
 				<text>Clearly, there are many important open research issues for the realization of .....</text>
 				<example>Clearly, there are many important open research issues for the realization of smart grid communications and applications.</example>
+			</entry>
+			<entry>
+				<text>In this ...., we provided a comprehensive overview on the applications of .... in .....</text>
+				<example>In this survey, we provided a comprehensive overview on the applications of game theory in smart grid networks.</example>
+			</entry>
+			<entry>
+				<text>The .... applications were carefully drawn from a broad range of problems spanning emerging areas such as .....</text>
+				<example>The smart grid applications were carefully drawn from a broad range of problems spanning emerging areas such as micro-grids, demand-side management, and communications.</example>
+			</entry>
+			<entry>
+				<text>In each area, we have identified the main technical challenges and presented an elaborate discussion on how .... can be applied to address these challenges.</text>
+				<example>In each area, we have identified the main technical challenges and presented an elaborate discussion on how game theory can be applied to address these challenges.</example>
+			</entry>
+			<entry>
+				<text>Moreover, we proposed several future directions for extending these approaches and adopting advanced .... techniques, so as to reduce the gap between theoretical models and practical implementations of .....</text>
+				<example>Moreover, we proposed several future directions for extending these approaches and adopting advanced game theoretic techniques, so as to reduce the gap between theoretical models and practical implementations of future smart grids.</example>
+			</entry>
+			<entry>
+				<text>However, we also note that many of the existing works have focused on .....</text>
+				<example>However, we also note that many of the existing works have focused on classical static noncooperative games.</example>
 			</entry>
 		</subsection>
 		<subsection type="interpretation of the main findings">
@@ -502,6 +534,26 @@
 				<text>.... form an appropriate technology to solve the resulting .....</text>
 				<example>Multi-agent technology and electronic markets form an appropriate technology to solve the resulting coordination problem.</example>
 			</entry>
+			<entry>
+				<text>Essentially, from the ...., we can clearly note that .... has a strong potential to provide solutions for pertinent problems in .... but also faces many .... challenges.</text>
+				<example>Essentially, from the surveyed works, we can clearly note that game theory has a strong potential to provide solutions for pertinent problems in smart grids but also faces many design challenges.</example>
+			</entry>
+			<entry>
+				<text>Hence, for future works, it is of interest to investigate .... and their applications in .....</text>
+				<example>Hence, for future works, it is of interest to investigate dynamic game models and their applications in smart grid systems.</example>
+			</entry>
+			<entry>
+				<text>The primary observation from the simulations is that we are able to get a .... for a .....</text>
+				<example>The primary observation from the simulations is that we are able to get a fairly high level of utilization (> 95%) for a multi-tude of power stations.</example>
+			</entry>
+			<entry>
+				<text>Secondly, the performance of .... expressed in terms of the ...., is very .... to the .....</text>
+				<example>Secondly, the performance of scheduling expressed in terms of the utilization of genTokens and the admission rate of consTokens, is very sensitive to the choice of the number of slots, the durations of the tokens, and its validity period.</example>
+			</entry>
+			<entry>
+				<text>In comparison, the .... is .... to the .....</text>
+				<example>In comparison, the service quality is moderately sensitive to the scheduling and splitting policies.</example>
+			</entry>
 		</subsection>
 		<subsection type="contributions">
 			<entry>
@@ -548,6 +600,18 @@
 				<text>The presented simulation case shows that this concept is capable of .... on .....</text>
 				<example>The presented simulation case shows that this concept is capable of utilizing flexibility in device operation via software agent bids on an electronic power market.</example>
 			</entry>
+			<entry>
+				<text>In a nutshell, this paper presented a comprehensive overview on the potential of applying .... within .....</text>
+				<example>In a nutshell, this paper presented a comprehensive overview on the potential of applying game theory within future smart grid systems.</example>
+			</entry>
+			<entry>
+				<text>Clearly, .... will constitute a strong tool for designing .... that can fulfill the promise of a completely integrated solution and satisfy the .... paradigm.</text>
+				<example>Clearly, game theory will constitute a strong tool for designing future smart grid systems that can fulfill the promise of a completely integrated solution and satisfy the “sense, communicate, computer, control” paradigm.</example>
+			</entry>
+			<entry>
+				<text>Main advantages of the proposed solution scheme, which have been shown by means of a .... case study, is the .....</text>
+				<example>Main advantages of the proposed solution scheme, which have been shown by means of a realistic case study, is the early bad data processing capability for each subsystem during the decoupled solution phase.</example>
+			</entry>
 		</subsection>
 		<subsection type="further works">
 			<entry>
@@ -573,6 +637,14 @@
 			<entry>
 				<text>Future work includes .....</text>
 				<example>Future work includes discussion of grid characteristics, architetures, key players, and research challenges.</example>
+			</entry>
+			<entry>
+				<text>This indicate that, for future works, it is of interest to investigate .... and their applications in .....</text>
+				<example>This indicate that, for future works, it is of interest to investigate dynamic game models and their applications in smart grid systems.</example>
+			</entry>
+			<entry>
+				<text>As a part of future work, we plan .....</text>
+				<example>As a part of future work, we plan to generalize it to much larger utility networks, and incorporate many more sources of renewable energy.</example>
 			</entry>
 		</subsection>
 	</section>
@@ -602,8 +674,12 @@
 				<text>The authors thank the support of .... for supporting this research.</text>
 				<example>The authors thank the support of CONACYT and PROMEP for supporting this research.</example>
 			</entry>
+			<entry>
+				<text>This work was prepared in part for the ...., as part of .... project, sponsored by .....</text>
+				<example>This work was prepared in part for the Force on Organizational Decision support Systems (ODSS), as part of the Information Systems and Decision Processes (ISDP) project, sponsored by The Institute of Management Sciences (TIMS) and the National Science Foundation.</example>
+			</entry>
 		</subsection>
-		<subsection type="discussion">
+		<subsection type="suggestions">
 			<entry>
 				<text>The author acknowledges the invaluable insights provided by ...., and also the help of the anonymous referees who gave comments on earlier versions of this work.</text>
 				<example>The author acknowledges the invaluable insights provided by the late Francis Edward Lewis, and also the help of the anonymous referees who gave comments on earlier versions of this work.</example>
@@ -611,6 +687,14 @@
 			<entry>
 				<text>The helpful comments and suggestions by .... are gratefully acknowledged.</text>
 				<example>The helpful comments and suggestions by the anonymous reviewers are gratefully acknowledged.</example>
+			</entry>
+			<entry>
+				<text>The research assistance of .... is gratefully acknowledged.</text>
+				<example>The research assistance of Mary K. Lee is gratefully acknowledged.</example>
+			</entry>
+			<entry>
+				<text>Comments from .... was helpful in revising the present paper.</text>
+				<example>Comments from Mark S. Silver and four anonymous reviewers were helpful in revising the present paper.</example>
 			</entry>
 		</subsection>
 	</section>
