@@ -402,15 +402,175 @@
 				<text>The organization of the rest of the paper is as follows. ..... Conclusions are given in section .....</text>
 				<example>The organization of the rest of the paper is as follows. The method is presented in section 2. Conclusions are given in section 3.</example>
 			</entry>
+			<entry>
+				<text>The rest of the paper is organized as follows. .... is given in Section A. .... is presented in Sections B and C. Section .... present the ..... .... are presented in Section IV./</text>
+				<example>The rest of the paper is organized as follows. An overview of the proposed IT system in given in Section II-A. A system to create and manage tokens is presented in Sections II-B and II-C. Section III present the scheduling aspects of the system. The simulation results are presented in Section IV.</example>
+			</entry>
 		</subsection>
 	</section>
 	<section type="results and discussion">
 		<subsection type="background">
+			<entry>
+				<text>The .... are .... related in the sense that they aim to .... with .....</text>
+				<example>The OR methods are all related in the sense that they aim to help decisions makers with complex decisions.</example>
+			</entry>
+			<entry>
+				<text>A .... case study is used to .....</text>
+				<example>A realistic case study is used to assess the two-stage SSE procedure.</example>
+			</entry>
+			<entry>
+				<text>In this paper, an .... is proposed for .... of .....</text>
+				<example>In this paper, an intelligent multiagent system is proposed for demand side management and generation scheduling functions of microgrid management.</example>
+			</entry>
+			<entry>
+				<text>.... algorithm is run a .... in advance to .... in accordance with some .... criteria.</text>
+				<example>Load shifting algorithm is run a day in advance to optimize the connection of controllable loads in accordance with some optimization criteria.</example>
+			</entry>
+			<entry>
+				<text>The .... consists of .....</text>
+				<example>The multiagent system consists of intelligent agents representing autonomous elements in the microgrid, administrative agents for managing real-time operation of the microgrid, and agents for managing the multiagent system framework.</example>
+			</entry>
+			<entry>
+				<text>In this paper the authors focus on exemplary simulation scenarios which are .....</text>
+				<example>In this paper the authors focus on exemplary simulation scenarios which are critical concerning the communication latency between agents.</example>
+			</entry>
+			<entry>
+				<text>The .... models which were used for .... simulations of the .... are equipped with the following .... components:</text>
+				<example>The network models which were used for dynamic simulations of the coordination system are equipped with the following dynamic components:</example>
+			</entry>
+			<entry>
+				<text>Numerous approaches to building .... can be found in the literature: .....</text>
+				<example>Numerous approaches to building individual autonomous intelligent agents can be found in the literature: Belief Desire and Intention (BDI) agents; reactive agents; agents with layered architectures [30]; and agents implemented using model-based programming [31], to name but a few.</example>
+			</entry>
+			<entry>
+				<text>The property of .... is often key in the .... to bring .... technology to bear on a particular .... problem.</text>
+				<example>The property of autonomy is often key in the decision to bring agent technology to bear on a particular power engineering problem.</example>
+			</entry>
+			<entry>
+				<text>Each .... of the .... is equipped with a .....</text>
+				<example>Each transmission line of the power system models is equipped with a distance protection relay according to [11] and a thermal overcurrent relay.</example>
+			</entry>
+			<entry>
+				<text>The .... are modeled as .....</text>
+				<example>The PFCs are modeled as simplified Thyristor Controlled Phase Shifting Transformers (TCPSTs).</example>
+			</entry>
+			<entry>
+				<text>The .... approach to .... is based on .....</text>
+				<example>The BDI approach to building agents is based on mental models of an agent’s beliefs, desires and intentions.</example>
+			</entry>
+			<entry>
+				<text>There are many different implementations of the .....</text>
+				<example>There are many different implementations of the BDI approach.</example>
+			</entry>
+			<entry>
+				<text>Research by .... into .... has also produced some interesting techniques for implementing .... that aim to display a .... degree of .....</text>
+				<example>Research by NASA into autonomous spacecraft has also produced some interesting techniques for implementing remote agents that aim to display a greater degree of autonomy.</example>
+			</entry>
 		</subsection>
 		<subsection type="interpretation">
 			<entry>
 				<text>Its .... characteristics is acceptable although it does not guarantee .....</text>
 				<example>Its convergence characteristics is acceptable although it does not guarantee convergence to the global optimum.</example>
+			</entry>
+			<entry>
+				<text>We observe that for .... the .... to .....</text>
+				<example>We observe that for any number of power stations (in the current case, up till 5) the utilization reaches very close to 98%.</example>
+			</entry>
+			<entry>
+				<text>We further observe that ...., the .....</text>
+				<example>We further observe that with just 1 power station the saturation level, i.e., the maximum utilization is attained with 500 k PHEVs per hour.</example>
+			</entry>
+			<entry>
+				<text>As we increase ...., the .... increases.</text>
+				<example>As we increase the number of power stations, the saturation level increases.</example>
+			</entry>
+			<entry>
+				<text>The results show clearly that the .... works as proposed, and maintains the .... in .... mode.</text>
+				<example>The results show clearly that the real-time scheduling works as proposed, and maintains the stability of the microgrid even in the islanded mode.</example>
+			</entry>
+			<entry>
+				<text>The comparisons with the existing .... show that the proposed .... can achieve the .... solution of the problems, even for the ones that the existing .... are unable to obtain.</text>
+				<example>The comparisons with the existing heuristic algorithms show that the proposed MAPSO method can achieve the optimal solution of the problems, even for the ones that the existing heuristic algorithms are unable to obtain.</example>
+			</entry>
+			<entry>
+				<text>Besides, through the proposed ...., the computational effectiveness of the .... can be greatly improved by .... computation time reduced in average by reducing .... in average of the number of .... analyses.</text>
+				<example>Besides, through the proposed hashing scheme, the computational effectiveness of the MAPSO can be greatly improved by 62.3% computation time reduced in average by reducing 93.86% in average of the number of power flow analyses.</example>
+			</entry>
+			<entry>
+				<text>We can see that .... can find .... solution and the performance is also comparable to .....</text>
+				<example>We can see that proposed modified Hopfield model can find near optimal solution and the performance is also comparable to best known heuristics.</example>
+			</entry>
+		</subsection>
+		<subsection type="describe the outcomes of your research">
+			<entry>
+				<text>Fig. .... shows the .... for .....</text>
+				<example>Fig. 6 shows the power supply for the month of december in 2009.</example>
+			</entry>
+			<entry>
+				<text>We plot the .... as a function of the .... in Fig. .....</text>
+				<example>We plot the utilization of genTokens as a function of the number of PHEVs that we desire to service per hour in Fig. 7.</example>
+			</entry>
+			<entry>
+				<text>Fig. .... shows scenarios in which we consider .....</text>
+				<example>Fig. 9 shows scenarios in which we consider smaller genTokens.</example>
+			</entry>
+			<entry>
+				<text>Fig. .... shows the results of .... including .... case appeared in Table .....</text>
+				<example>Fig. 5 shows the results of DR implementation at all hours in emergency period including 17 hr case appeared in Table VI.</example>
+			</entry>
+			<entry>
+				<text>The .... proposed for simulating .... is shown in Fig. .....</text>
+				<example>The multiagent system proposed for simulating the real-time operation of microgrid in real time digital simulator (RTDS) is shown in Fig. 4.</example>
+			</entry>
+			<entry>
+				<text>Table .... collects the .... required by .... of the proposed scheme.</text>
+				<example>Table I collects the average number of iterations required by the conventional method and the nonlinear decoupled stage of the proposed scheme.</example>
+			</entry>
+			<entry>
+				<text>Table .... shows the .... for .... by using .... with the data of Table .....</text>
+				<example>Table IV shows the importance degrees for criteria calculated by using (3) with the data of Table III.</example>
+			</entry>
+			<entry>
+				<text>Compared to .... in the literature, the simulation results of .... studies are by Table .....</text>
+				<example>Compared to heuristic algorithms in the literature, the simulation results of three case studies are by Table 2.</example>
+			</entry>
+		</subsection>
+		<subsection type="computational simulations and implementation">
+			<entry>
+				<text>Simulation studies were carried out on a .....</text>
+				<example>Simulation studies were carried out on a 750 kW residential microgrid.</example>
+			</entry>
+			<entry>
+				<text>The implementation consist of a .... in .....</text>
+				<example>The implementation consist of a multithreaded PHEV simulator in Java 1.6.</example>
+			</entry>
+			<entry>
+				<text>To simulate ...., the experiments use the .... for the .... from .....</text>
+				<example>To simulate realistic power demands, the experiments use the power traces for the last five years from the Australian Power Grid.</example>
+			</entry>
+			<entry>
+				<text>We simulate the .... based on data from .....</text>
+				<example>We simulate the token management system (TMS) based on data from [10], [11], [16].</example>
+			</entry>
+			<entry>
+				<text>A .... case study is used to .....</text>
+				<example>A realistic case study is used to assess the two-stage SSE procedure.</example>
+			</entry>
+			<entry>
+				<text>A .... case study is used to .....</text>
+				<example>A realistic case study is used to assess the two-stage SSE procedure.</example>
+			</entry>
+			<entry>
+				<text>The test system is composed of a .....</example>
+				<example>The test system is composed of a substation with two parallel transformers.</example>
+			</entry>
+			<entry>
+				<text>The .... a set of ...., comprising .... benchmark systems, which are well-known as .... cases in the .... literature.</text>
+				<example>The MV bus of this substation feeds a set of 4 radial feeders, comprising two replicas of the 69- and 85-bus benchmark systems, which are well-known as ill-conditioned cases in the distribution load flow literature.</example>
+			</entry>
+			<entry>
+				<text>The .... models which were used for .... simulations of the .... are equipped with the following .... components:</text>
+				<example>The network models which were used for dynamic simulations of the coordination system are equipped with the following dynamic components:</example>
 			</entry>
 		</subsection>
 		<subsection type="comparison">
@@ -422,8 +582,35 @@
 				<text>.... are computationally very efficient than .....</text>
 				<example>Estimation methods are computationally very efficient than power flow calculation.</example>
 			</entry>
+			<entry>
+				<text>Compared to .... in the literature, the simulation results of .... studies are by Table .....</text>
+				<example>Compared to heuristic algorithms in the literature, the simulation results of three case studies are by Table 2.</example>
+			</entry>
+			<entry>
+				<text>The comparisons with the existing .... show that the proposed .... can achieve the .... solution of the problems, even for the ones that the existing .... are unable to obtain.</text>
+				<example>The comparisons with the existing heuristic algorithms show that the proposed MAPSO method can achieve the optimal solution of the problems, even for the ones that the existing heuristic algorithms are unable to obtain.</example>
+			</entry>
+			<entry>
+				<text>We compare the .... by using proposed .... with other existing .....</text>
+				<example>We compare the cost of tree computed by using proposed modified Hopfield model with other existing heuristics and optimal solution.</example>
+			</entry>
 		</subsection>
 		<subsection type="implications">
+			<entry>
+				<text>We conclude from these results that the .... generally pays off in terms of ...., while incurring in a .....</text>
+				<example>We conclude from these results that the use of filtering generally pays off in terms of solution quality, while incurring in a typically small computation time overhead.</example>
+			</entry>
+			<entry>
+				<text>These .... indicate that the .... can have an influence on .....</text>
+				<example>These differences indicate that the methodology used to generate the instances can have an influence on the performance of the greedy functions.</example>
+			</entry>
+			<entry>
+				<text>This suggests that the .... strategy is not necessary for this type of .....</text>
+				<example>This suggests that the heuristic strategy is not necessary for this type of problem.</example>
+			</entry>
+			<entry>
+				<text>This is ...., because the .... version only spends about .... the .... version spends.</text>
+				<example>This is a interesting news, because the proposed version only spends about half of the computation time than the literature version spends.</example>
 		</subsection>
 	</section>
 	<section type="conclusion">
@@ -646,6 +833,10 @@
 				<text>As a part of future work, we plan .....</text>
 				<example>As a part of future work, we plan to generalize it to much larger utility networks, and incorporate many more sources of renewable energy.</example>
 			</entry>
+			<entry>
+				<text>In order to further analyze the .... of the .... under more .... conditions, the authors will expand the presented model by .....</text>
+				<example>In order to further analyze the robustness of the multi-agent coordination algorithm under more realistic conditions, the authors will expand the presented model by adding communication simulator.</example>
+			</entry>
 		</subsection>
 	</section>
 	<section type="acknowledgement">
@@ -678,6 +869,10 @@
 				<text>This work was prepared in part for the ...., as part of .... project, sponsored by .....</text>
 				<example>This work was prepared in part for the Force on Organizational Decision support Systems (ODSS), as part of the Information Systems and Decision Processes (ISDP) project, sponsored by The Institute of Management Sciences (TIMS) and the National Science Foundation.</example>
 			</entry>
+			<entry>
+				<text>The financial supports of the research in the paper from ...., under the Grant No. ...., are greatly acknowledged.</text>
+				<example>The financial supports of the research in the paper from National Science Council, Taiwan, under the Grant No. NSC-97-2221-E-006-273-MY3, are greatly acknowledged.</example>
+			</entry>
 		</subsection>
 		<subsection type="suggestions">
 			<entry>
@@ -695,6 +890,10 @@
 			<entry>
 				<text>Comments from .... was helpful in revising the present paper.</text>
 				<example>Comments from Mark S. Silver and four anonymous reviewers were helpful in revising the present paper.</example>
+			</entry>
+			<entry>
+				<text>The authors would like to thank to .... for their comments and help in .....</text>
+				<example>The authors would like to thank to Ruck Thawonmas and Awng Thein for their comments and help in computer simulation.</example>
 			</entry>
 		</subsection>
 	</section>
