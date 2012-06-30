@@ -403,7 +403,11 @@
 				<example>The organization of the rest of the paper is as follows. The method is presented in section 2. Conclusions are given in section 3.</example>
 			</entry>
 			<entry>
-				<text>The rest of the paper is organized as follows. .... is given in Section A. .... is presented in Sections B and C. Section .... present the ..... .... are presented in Section IV./</text>
+				<text>This paper is organized as follows. .... is given in Section ..... .... is presented in Sections ..... Section .... present the ..... .... are presented in Section .....</text>
+				<example>This paper is organized as follows. Multi-agent system overview is given in Section I. Simulations and results testings is presented in Sections II. Section III present the further works and conclusions are presented in Section IV.</example>
+			</entry>
+			<entry>
+				<text>The rest of the paper is organized as follows. .... is given in Section A. .... is presented in Sections B and C. Section .... present the ..... .... are presented in Section IV.</text>
 				<example>The rest of the paper is organized as follows. An overview of the proposed IT system in given in Section II-A. A system to create and manage tokens is presented in Sections II-B and II-C. Section III present the scheduling aspects of the system. The simulation results are presented in Section IV.</example>
 			</entry>
 		</subsection>
