@@ -1,11 +1,11 @@
+<?xml version="1.0" encoding="utf8"?>
+<!DOCTYPE saurus SYSTEM "saurus.dtd">
+
 <!--
     Techsaurus, a XML compendium of common english expressions in electrical engineering and computer science papers
     Copyright (C) 2012, Filipe de Oliveira Saraiva (mail@filipesaraiva.info)
     View LICENSE file to more informations about copyright note
 -->
-
-<?xml version="1.0" encoding="utf8"?>
-<!DOCTYPE saurus SYSTEM "saurus.dtd">
 
 <saurus>
     <section type="abstract">
