@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf8"?>
 <!DOCTYPE saurus SYSTEM "saurus.dtd">
-
 <!--
     Techsaurus, a XML compendium of common english expressions in electrical engineering and computer science papers
     Copyright (C) 2012, Filipe de Oliveira Saraiva (mail@filipesaraiva.info)
@@ -565,7 +564,7 @@
                 <example>A realistic case study is used to assess the two-stage SSE procedure.</example>
             </sentence>
             <sentence>
-                <text>The test system is composed of a [....].</example>
+                <text>The test system is composed of a [....].</text>
                 <example>The test system is composed of a substation with two parallel transformers.</example>
             </sentence>
             <sentence>
@@ -615,6 +614,7 @@
             <sentence>
                 <text>This is [....], because the [....] version only spends about [....] the [....] version spends.</text>
                 <example>This is a interesting news, because the proposed version only spends about half of the computation time than the literature version spends.</example>
+            </sentence>
         </subsection>
     </section>
     <section type="conclusion">
