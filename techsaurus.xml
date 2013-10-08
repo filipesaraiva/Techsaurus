@@ -10,895 +10,895 @@
 <saurus>
     <section type="abstract">
         <subsection type="contextualization">
-            <entry>
+            <sentence>
                 <text>There has been much recent discussion on what [....] can and should look like in the future.</text>
                 <example>There has been much recent discussion on what distribution systems can and should look like in the future.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Terms related to this discussion include [....], and others.</text>
                 <example>Terms related to this discussion include Smart Grid, Distribution System of the Future, and others.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>An [....] has been developed for [....], and other special applications.</text>
                 <example>An open-source distribution system simulator has been developed for distributed resource planning, harmonic studies, neural-earth voltage studies, volt-var control studies, and other special applications.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] brings about a need to manage [....] in a way that is more active.</text>
                 <example>Connection of Distributed Generation brings about a need to manage operation of distribution networks in a way that is more active.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Many researches have demonstrated that the [....] can have a significant, quantitative effect on its performance characteristics.</text>
                 <example>Many researches have demonstrated that the organizational design employed by an agent system can have a significant, quantitative effect on its performance characteristics.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] is defined as altering the [....] of [....] by changing [....].</text>
                 <example>Feeder reconfiguration is defined as altering the topological structures of distribution feeders by changing the open/closed states of the sectionalizing and tie switches.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Motivated by the ... theoretic distinction between [....], we distinguish between [....] types of [....]: [....].</text>
                 <example>Motivated by the control theoretic distinction between controllable and uncontrollable events, we distinguish between two types of agents within a multi-agent system: controllable agents, and uncontrollable agents.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] computing represents an exciting new synthesis [....] for [....].</text>
                 <example>Agent-based computing represents an exciting new synthesis both for artificial intelligence and, more generally, computer science.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>It has the potential to significantly improve the [....].</text>
                 <example>It has the potential to significantly improve the theory and the practice of modeling, designing, and implementing computer systems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>A range of [....] have emerged from this line of research, each with different strengths and weakness.</text>
                 <example>A range of organizational strategies have emerged from this line of research, each with different strengths and weakness.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This paper presents one of applications of [....] to [....] of [....].</text>
                 <example>This paper presents one of applications of the ant colony search method to reduce the minimun losses of distribution network.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This article presents an efficient [....] method for [....] of [....].</text>
                 <example>This article presents an efficient metaheuristic method for reconfiguration of distribution systems.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="gap">
-            <entry>
+            <sentence>
                 <text>Functionally, a [....] should be able to provide new abilities such as [....].</text>
                 <example>Functionally, a Smart Grid should be able to provide new abilities such as self-healing, high reliability, energy management, and real-time pricing.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>From a [....] perspective, a [....] will likely incorporate new technologies such as a[....].</text>
                 <example>From a design perspective, a Smart Grid will likely incorporate new technologies such as advanced metering, automation, communication, distributed generation, and distributed storage.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In order to allow for this change, [....] need to [....] of how to manage [....].</text>
                 <example>In order to allow for this change, DNOs need to devise strategies of how to manage generator outputs so to facilitate connection of renewable resources and maximize use of network assets.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In order to support the [....] in terms of effective implementation of [....], [....] keys technical issues need to be addressed: [....]?</text>
                 <example>In order to support the power engineering community in terms of effective implementation of multi-agent system technology, two keys technical issues need to be addressed: how should/can agents, autonomous intelligent agents and societies of agents be built for power engineering applications?</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Yet, to date, there has been little systematic analysis of what makes the [....] approach such an appealing and powerful [....].</text>
                 <example>Yet, to date, there has been little systematic analysis of what makes the agent-based approach such an appealing and powerful computational model.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Moreover, even less effort has been devoted to discussing the inherent disadvantages that stem from adopting as [....] view.</text>
                 <example>Moreover, even less effort has been devoted to discussing the inherent disadvantages that stem from adopting as agent-oriented view.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="purpose">
-            <entry>
+            <sentence>
                 <text>This paper discussed the potential impact that issues related to [....] will have on [....].</text>
                 <example>This paper discussed the potential impact that issues related to Smart Grid will have on distribution system design.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this context, this paper is an [....] on the potential of applying [....] for addressing relevant and timely open problems in emerging areas that pertain to [....].</text>
                 <example>In this context, this paper is an overview on the potential of applying game theory for addressing relevant and timely open problems in emerging areas that pertain to the smart grid.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This paper proposes a [....] for [....] for [....].</text>
                 <example>This paper proposes a tabu search algorithm for the reconfiguration of distribution systems for minimizing the real power losses.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] methods are described, in the effort to foster more collaborative research.</text>
                 <example>The software architecture and solution methods are described, in the effort to foster more collaborative research.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We give a [....] to [....] in a [....].</text>
                 <example>We give a distributed algorithm to compute shortest paths in a network with changing topology.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this paper the authors discuss the [....] available to those wishing to implement [....] to [....].</text>
                 <example>In this paper the authors discuss the technical aspects of standards, tools, supporting technologies and design methodologies available to those wishing to implement a MAS solution to power engineering problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this article we present a survey of the [....] used in [....].</text>
                 <example>In this article we present a survey of the major organizational paradigms used in multi-agent systems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this paper, a [....] is presented which utilizes [....] as a [....] in order to [....].</text>
                 <example>In this paper, a scheme is presented which utilizes feeder reconfiguration as a planning and/or real-time control tool in order to restructure the primary feeders for loss reduction.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this paper, [....] are proposed for these problems.</text>
                 <example>In this paper, general formulation and solution methods are proposed for these problems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This paper surveys recent research on [....] for [....].</text>
                 <example>This paper surveys recent research on programming languages and development tools for multi-agent systems.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="methodology">
-            <entry>
+            <sentence>
                 <text>Its [....] complexities are evaluated.</text>
                 <example>Its time and message complexities are evaluated.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Based on the authors' experience of implementing [....] for [....], both the benefits and shortcomings of these technologies and approaches are discussed.</text>
                 <example>Based on the authors' experience of implementing multi-agent systems for condition monitoring and the analysis of power system disturbances, both the benefits and shortcomings of these technologies and approaches are discussed.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We will provide a description of [....], discuss their advantages and disadvantages, and provide examples of how they may be [....].</text>
                 <example>We will provide a description of each, discuss their advantages and disadvantages, and provide examples of how they may be instantiated and maintained.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] foundation of the [....] is given; the solution procedure is illustrated on [....] examples.</text>
                 <example>The mathematical foundation of the scheme is given; the solution procedure is illustrated on simple examples.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>It starts by addressing [....], followed by [....], and finally [....].</text>
                 <example>It starts by addressing programming languages (delcarative, imperative, and hybrid), followed by integrated development environments, and finally platforms and frameworks.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Using a [....] framework, this paper studies the [....] in two context: in one context, [....], while in the order [....].</text>
                 <example>Using a game-theoretic framework, this paper studies the design of partially controlled multi-agent systems in two context: in one context, the uncontrollable agents are expected utility maximizers, while in the order they are reinforcement learners.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>For [....], a [....] is defined and it is shown that the proposed solution method for [....] can also be used for [....].</text>
                 <example>For load balancing, a load balance index is defined and it is shown that the proposed solution method for loss reduction can also be used for load balancing.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Test results are included to show [....] of the proposed method.</text>
                 <example>Test results are included to show the performance of the proposed method.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="results">
-            <entry>
+            <sentence>
                 <text>Results are presented for [....] with [....].</text>
                 <example>Results are presented for realistic systems with 135 and 202 buses.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Test results are included to show [....] of the proposed method.</text>
                 <example>Test results are included to show the performance of the proposed method.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="conclusion">
-            <entry>
+            <sentence>
                 <text>This summary will facilitate the comparative evaluation of [....], allowing [....] to first recognize the spectrum of possibilities, and then guiding the selection of an appropriate [....] for a particular domain and enviroment.</text>
                 <example>This summary will facilitate the comparative evaluation of organizational styles, allowing designers to first recognize the spectrum of possibilities, and then guiding the selection of an appropriate organizational design for a particular domain and enviroment.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The current state of these [....] is described and, in some cases, indications of future directions of research are given.</text>
                 <example>The current state of these systems is described and, in some cases, indications of future directions of research are given.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We suggest different techniques for [....], asses their success, and examine their relationship.</text>
                 <example>We suggest different techniques for controlling agents' behavior in each domain, asses their success, and examine their relationship.</example>
-            </entry>
+            </sentence>
         </subsection>
     </section>
     <section type="introduction">
         <subsection type="contextualization">
-            <entry>
+            <sentence>
                 <text>In [....], [....] are used for [....].</text>
                 <example>In primary distribution systems, sectionalizing switches are used for protection, and to isolate a fault.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] is defined as [....].</text>
                 <example>A microgrid is defined as an integrated energy system.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In the context of [....], [....] can be applied in a variety of applications, such as [....].</text>
                 <example>In the context of power systems, multi-agent technologies can be applied in a variety of applications, such as to perform power system diagnosis.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] have shown their utility for solving a wide range of problems in different application domains</text>
                 <example>Fuzzy systems have shown their utility for solving a wide range of problems in different application domains</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] consist of [....].</text>
                 <example>Distribution systems consist of groups of interconnected radial circuits.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Traditional [....] applications of this problem are in [....].</text>
                 <example>Traditional power system distribution applications of this problem are power system diagnosis and power flow calculation.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Another important characteristic of this problem is that [....].</text>
                 <example>Another important characteristic of this problem is that power system distribution must be a tree.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We assume that [....] is [....].</text>
                 <example>We assume that power system is connected.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In recent years, [....] have been studied for solving [....].</text>
                 <example>In recent years, metaheuristic methods have been studied for solving combinatorial optimization problems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] techniques such as [....] are popular research subjects, since they can deal with complex [....] problems which are difficult to solve by classical methods.</text>
                 <example>Computational intelligence techniques such as neural networks, and genetic algorithms, are popular research subjects, since they can deal with complex engineering problems which are difficult to solve by classical methods.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] approaches have attracted considerable attention in the [....].</text>
                 <example>Hybrid approaches have attracted considerable attention in the computational intelligence community.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>One of the most popular approaches is the [....].</text>
                 <example>One of the most popular approaches is the hybridization between fuzzy systems and genetic algorithms.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Typical [....] methods include [....].</text>
                 <example>Typical meta-heuristic methods include simulated annealing, genetic algorithms, and others.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The theory of [....] has received a tremendous amount of attention because of its [....], including [....].</text>
                 <example>The theory of stable matching has received a tremendous amount of attention because of its many applications, including matching graduating medical students to residency programs, and matching kidney donors with recipients.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="gap">
-            <entry>
+            <sentence>
                 <text>While several improvements may reduce the computational cost of [....], this approach becomes quickly impratical in [....].</text>
                 <example>While several improvements may reduce the computational cost of mathematical programming, this approach becomes quickly impratical in mosts cases.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>However, such technique can encounter difficulties, such as [....].</text>
                 <example>However, such technique can encounter difficulties, such as getting trapped in local minima, increased the computational complexity, and not being applicable to certain objective functions.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Because there are many candidate combinations in the [....], [....] is a complicated problem.</text>
                 <example>Because there are many candidate combinations in the distribution system, network reconfiguration is a complicated problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>These early approaches were effective in solving [....] problems but were not [....].</text>
                 <example>These early approaches were effective in solving small scale problems but were not flexible and were too computationally expensive to deal with large problems with many constraints.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] have been successfully applied to solve different kinds of problems in [....].</text>
                 <example>Fuzzy systems have been successfully applied to solve different kinds of problems in various application domains.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>However, one of the challenging issues is to [....] that [....].</text>
                 <example>However, one of the challenging issues is to associate a system configuration that derives the QoS.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The subject of [....] has gained a great deal of attention due to the [....] and therefore, much of current research on [....] has focuses on [....].</text>
                 <example>The subject of minimizing distribution systems losses has gained a great deal of attention due to the high cost of electrical energy and therefore, much of current research on distribution automation has focuses on the minimun-loss configuration problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>However, as a [....] becomes larger, a great amount of time can be spent searching for the [....].</text>
                 <example>However, as a search tree becomes larger, a great amount of time can be spent searching for the optimal solution.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="state of the art">
-            <entry>
+            <sentence>
                 <text>The early studies on [....] were directed to [....].</text>
                 <example>The early studies on the network reconfiguration were directed to the planning stage.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>An early work on [....] for [....] is presented by [....].</text>
                 <example>An early work on network reconfiguration for loss reduction is presented by Truman.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In a study done by [....], [....] is given for [....].</text>
                 <example>In a study done by Truman, a search algorithm is given to feeder reconfiguration.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In [....], a detailed recipe for [....] is given by [....].</text>
                 <example>In Thomas, a detailed recipe for service restoration is given by using indices developed.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In [....], [....] proposed [....] for [....].</text>
                 <example>In [9], Castro proposed a simple algorithm for service restoration.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] recently proposed [....] for [....].</text>
                 <example>Castro and Franca recently proposed modified search algorithm for service restoration.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] was presented in [....].</text>
                 <example>An artificial neural network based method for feeder reconfiguration was presented in [10].</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] modelled the problem of [....] as [....]</text>
                 <example>Baran and Wu modelled the problem of loss reduction as a integer programming problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The authors in [....] outlined and validated a methodology for [....].</text>
                 <example>The authors in [11] outlined and validated a methodology for optimizing the operation of distribution networks.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In [....], the authors have considered [....] on the analysis to [....].</text>
                 <example>In [11], the authors have considered time varying load on the analysis to loss reduction.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In [....], the authors employed [....] for [....].</text>
                 <example>In [11], the authors employed bidirectional feeder models for distribution systems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] techniques, particularly between [....] have formed a important part of [....].</text>
                 <example>Hybrid techniques, particularly between metaheuristic and mathematical programming methods have formed a important part of the nurse rostering literature.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Some of the most recent work [....] has implemented a [....] to [....].</text>
                 <example>Some of the most recent work [10, 11, 12] has implemented a multi-agent system to control microgrid generatiors.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="importance">
-            <entry>
+            <sentence>
                 <text>Consequently, a [....] is urgently needed to address these challenges.</text>
                 <example>Consequently, a new grid infrastructure is urgently needed to address these challenges.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The subject of [....] has gained a great deal of attention due to [....].</text>
                 <example>The subject of minimizing distribution systems losses has gained a great deal of attention due to the high cost of electrical energy.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This topic has attracted considerable atteintion in the [....].</text>
                 <example>This topic has attracted considerable atteintion in the computation intelligence community.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] techniques such as [....] are popular research subjects, since they can deal with complex [....] problems which are difficult to solve by classical methods.</text>
                 <example>Computational intelligence techniques such as neural networks, and genetic algorithms, are popular research subjects, since they can deal with complex engineering problems which are difficult to solve by classical methods.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] approaches have attracted considerable attention in the [....].</text>
                 <example>Hybrid approaches have attracted considerable attention in the computational intelligence community.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] have been successfully applied to solve different kinds of problems in [....].</text>
                 <example>Fuzzy systems have been successfully applied to solve different kinds of problems in various application domains.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The subject of [....] has gained a great deal of attention due to the [....].</text>
                 <example>The subject of minimizing distribution systems losses has gained a great deal of attention due to the high cost of electrical energy.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The theory of [....] has received a tremendous amount of attention because of its [....], including [....].</text>
                 <example>The theory of stable matching has received a tremendous amount of attention because of its many applications, including matching graduating medical students to residency programs, and matching kidney donors with recipients.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="purpose">
-            <entry>
+            <sentence>
                 <text>The focus of this paper is to discuss the design and implementation of [....] in the context of [....].</text>
                 <example>The focus of this paper is to discuss the design and implementation of a multi-agent system in the context of a distributed smart grid.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In particular, we will focus on [....] in [....].</text>
                 <example>In particular, we will focus on implementing the concept of agents in a intelligent distributed autonomous power system.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This paper discusses the design and implementation of a [....] in the context of [....].</text>
                 <example>This paper discusses the design and implementation of a genetic algorithm in the context of power systems distribution.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this paper, a method employing the [....] is proposed to solve the [....].</text>
                 <example>In this paper, a method employing the ant colony search algorithm is proposed to solve the network reconfiguration problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this paper, a comprehensive review on [....] is presented.</text>
                 <example>In this paper, a comprehensive review on smart grids is presented.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This paper reviews the classical models and the most recent trends for [....].</text>
                 <example>This paper reviews the classical models and the most recent trends for genetic algorithms.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This paper provides an overview and a list of references on the use of [....] in [....].</text>
                 <example>This paper provides an overview and a list of references on the use of evolutionary algorithms in power systems and related fields.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="organization">
-            <entry>
+            <sentence>
                 <text>The organization of the rest of the paper is as follows. [....]. Conclusions are given in section [....].</text>
                 <example>The organization of the rest of the paper is as follows. The method is presented in section 2. Conclusions are given in section 3.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This paper is organized as follows. [....] is given in Section [....]. [....] is presented in Sections [....]. Section [....] present the [....]. [....] are presented in Section [....].</text>
                 <example>This paper is organized as follows. Multi-agent system overview is given in Section I. Simulations and results testings is presented in Sections II. Section III present the further works and conclusions are presented in Section IV.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The rest of the paper is organized as follows. [....] is given in Section A. [....] is presented in Sections B and C. Section [....] present the [....]. [....] are presented in Section IV.</text>
                 <example>The rest of the paper is organized as follows. An overview of the proposed IT system in given in Section II-A. A system to create and manage tokens is presented in Sections II-B and II-C. Section III present the scheduling aspects of the system. The simulation results are presented in Section IV.</example>
-            </entry>
+            </sentence>
         </subsection>
     </section>
     <section type="results and discussion">
         <subsection type="background">
-            <entry>
+            <sentence>
                 <text>The [....] are [....] related in the sense that they aim to [....] with [....].</text>
                 <example>The OR methods are all related in the sense that they aim to help decisions makers with complex decisions.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>A [....] case study is used to [....].</text>
                 <example>A realistic case study is used to assess the two-stage SSE procedure.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this paper, an [....] is proposed for [....] of [....].</text>
                 <example>In this paper, an intelligent multiagent system is proposed for demand side management and generation scheduling functions of microgrid management.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] algorithm is run a [....] in advance to [....] in accordance with some [....] criteria.</text>
                 <example>Load shifting algorithm is run a day in advance to optimize the connection of controllable loads in accordance with some optimization criteria.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] consists of [....].</text>
                 <example>The multiagent system consists of intelligent agents representing autonomous elements in the microgrid, administrative agents for managing real-time operation of the microgrid, and agents for managing the multiagent system framework.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this paper the authors focus on exemplary simulation scenarios which are [....].</text>
                 <example>In this paper the authors focus on exemplary simulation scenarios which are critical concerning the communication latency between agents.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] models which were used for [....] simulations of the [....] are equipped with the following [....] components:</text>
                 <example>The network models which were used for dynamic simulations of the coordination system are equipped with the following dynamic components:</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Numerous approaches to building [....] can be found in the literature: [....].</text>
                 <example>Numerous approaches to building individual autonomous intelligent agents can be found in the literature: Belief Desire and Intention (BDI) agents; reactive agents; agents with layered architectures [30]; and agents implemented using model-based programming [31], to name but a few.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The property of [....] is often key in the [....] to bring [....] technology to bear on a particular [....] problem.</text>
                 <example>The property of autonomy is often key in the decision to bring agent technology to bear on a particular power engineering problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Each [....] of the [....] is equipped with a [....].</text>
                 <example>Each transmission line of the power system models is equipped with a distance protection relay according to [11] and a thermal overcurrent relay.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] are modeled as [....].</text>
                 <example>The PFCs are modeled as simplified Thyristor Controlled Phase Shifting Transformers (TCPSTs).</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] approach to [....] is based on [....].</text>
                 <example>The BDI approach to building agents is based on mental models of an agent’s beliefs, desires and intentions.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>There are many different implementations of the [....].</text>
                 <example>There are many different implementations of the BDI approach.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Research by [....] into [....] has also produced some interesting techniques for implementing [....] that aim to display a [....] degree of [....].</text>
                 <example>Research by NASA into autonomous spacecraft has also produced some interesting techniques for implementing remote agents that aim to display a greater degree of autonomy.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="interpretation">
-            <entry>
+            <sentence>
                 <text>Its [....] characteristics is acceptable although it does not guarantee [....].</text>
                 <example>Its convergence characteristics is acceptable although it does not guarantee convergence to the global optimum.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We observe that for [....] the [....] to [....].</text>
                 <example>We observe that for any number of power stations (in the current case, up till 5) the utilization reaches very close to 98%.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We further observe that [....], the [....].</text>
                 <example>We further observe that with just 1 power station the saturation level, i.e., the maximum utilization is attained with 500 k PHEVs per hour.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>As we increase [....], the [....] increases.</text>
                 <example>As we increase the number of power stations, the saturation level increases.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The results show clearly that the [....] works as proposed, and maintains the [....] in [....] mode.</text>
                 <example>The results show clearly that the real-time scheduling works as proposed, and maintains the stability of the microgrid even in the islanded mode.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The comparisons with the existing [....] show that the proposed [....] can achieve the [....] solution of the problems, even for the ones that the existing [....] are unable to obtain.</text>
                 <example>The comparisons with the existing heuristic algorithms show that the proposed MAPSO method can achieve the optimal solution of the problems, even for the ones that the existing heuristic algorithms are unable to obtain.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Besides, through the proposed [....], the computational effectiveness of the [....] can be greatly improved by [....] computation time reduced in average by reducing [....] in average of the number of [....] analyses.</text>
                 <example>Besides, through the proposed hashing scheme, the computational effectiveness of the MAPSO can be greatly improved by 62.3% computation time reduced in average by reducing 93.86% in average of the number of power flow analyses.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We can see that [....] can find [....] solution and the performance is also comparable to [....].</text>
                 <example>We can see that proposed modified Hopfield model can find near optimal solution and the performance is also comparable to best known heuristics.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="describe the outcomes of your research">
-            <entry>
+            <sentence>
                 <text>Fig. [....] shows the [....] for [....].</text>
                 <example>Fig. 6 shows the power supply for the month of december in 2009.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We plot the [....] as a function of the [....] in Fig. [....].</text>
                 <example>We plot the utilization of genTokens as a function of the number of PHEVs that we desire to service per hour in Fig. 7.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Fig. [....] shows scenarios in which we consider [....].</text>
                 <example>Fig. 9 shows scenarios in which we consider smaller genTokens.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Fig. [....] shows the results of [....] including [....] case appeared in Table [....].</text>
                 <example>Fig. 5 shows the results of DR implementation at all hours in emergency period including 17 hr case appeared in Table VI.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] proposed for simulating [....] is shown in Fig. [....].</text>
                 <example>The multiagent system proposed for simulating the real-time operation of microgrid in real time digital simulator (RTDS) is shown in Fig. 4.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Table [....] collects the [....] required by [....] of the proposed scheme.</text>
                 <example>Table I collects the average number of iterations required by the conventional method and the nonlinear decoupled stage of the proposed scheme.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Table [....] shows the [....] for [....] by using [....] with the data of Table [....].</text>
                 <example>Table IV shows the importance degrees for criteria calculated by using (3) with the data of Table III.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Compared to [....] in the literature, the simulation results of [....] studies are by Table [....].</text>
                 <example>Compared to heuristic algorithms in the literature, the simulation results of three case studies are by Table 2.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="computational simulations and implementation">
-            <entry>
+            <sentence>
                 <text>Simulation studies were carried out on a [....].</text>
                 <example>Simulation studies were carried out on a 750 kW residential microgrid.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The implementation consist of a [....] in [....].</text>
                 <example>The implementation consist of a multithreaded PHEV simulator in Java 1.6.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>To simulate [....], the experiments use the [....] for the [....] from [....].</text>
                 <example>To simulate realistic power demands, the experiments use the power traces for the last five years from the Australian Power Grid.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We simulate the [....] based on data from [....].</text>
                 <example>We simulate the token management system (TMS) based on data from [10], [11], [16].</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>A [....] case study is used to [....].</text>
                 <example>A realistic case study is used to assess the two-stage SSE procedure.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>A [....] case study is used to [....].</text>
                 <example>A realistic case study is used to assess the two-stage SSE procedure.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The test system is composed of a [....].</example>
                 <example>The test system is composed of a substation with two parallel transformers.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] a set of [....], comprising [....] benchmark systems, which are well-known as [....] cases in the [....] literature.</text>
                 <example>The MV bus of this substation feeds a set of 4 radial feeders, comprising two replicas of the 69- and 85-bus benchmark systems, which are well-known as ill-conditioned cases in the distribution load flow literature.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] models which were used for [....] simulations of the [....] are equipped with the following [....] components:</text>
                 <example>The network models which were used for dynamic simulations of the coordination system are equipped with the following dynamic components:</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="comparison">
-            <entry>
+            <sentence>
                 <text>From the computational tests results, it is observed that the [....] of [....] is better than [....].</text>
                 <example>From the computational testes results, it is observed that the convergence property of ant colony method is better than that of other methods.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] are computationally very efficient than [....].</text>
                 <example>Estimation methods are computationally very efficient than power flow calculation.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Compared to [....] in the literature, the simulation results of [....] studies are by Table [....].</text>
                 <example>Compared to heuristic algorithms in the literature, the simulation results of three case studies are by Table 2.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The comparisons with the existing [....] show that the proposed [....] can achieve the [....] solution of the problems, even for the ones that the existing [....] are unable to obtain.</text>
                 <example>The comparisons with the existing heuristic algorithms show that the proposed MAPSO method can achieve the optimal solution of the problems, even for the ones that the existing heuristic algorithms are unable to obtain.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>We compare the [....] by using proposed [....] with other existing [....].</text>
                 <example>We compare the cost of tree computed by using proposed modified Hopfield model with other existing heuristics and optimal solution.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="implications">
-            <entry>
+            <sentence>
                 <text>We conclude from these results that the [....] generally pays off in terms of [....], while incurring in a [....].</text>
                 <example>We conclude from these results that the use of filtering generally pays off in terms of solution quality, while incurring in a typically small computation time overhead.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>These [....] indicate that the [....] can have an influence on [....].</text>
                 <example>These differences indicate that the methodology used to generate the instances can have an influence on the performance of the greedy functions.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This suggests that the [....] strategy is not necessary for this type of [....].</text>
                 <example>This suggests that the heuristic strategy is not necessary for this type of problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This is [....], because the [....] version only spends about [....] the [....] version spends.</text>
                 <example>This is a interesting news, because the proposed version only spends about half of the computation time than the literature version spends.</example>
         </subsection>
     </section>
     <section type="conclusion">
         <subsection type="state main findings">
-            <entry>
+            <sentence>
                 <text>This paper focuses on [....], for the particular configuration arising in [....].</text>
                 <example>This paper focuses on the SSE tool, for the particular configuration arising in distribution substations directly feeding MV radial feeders.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This paper presented the [....] to [....] for [....] using [....].</text>
                 <example>This paper presented the generalized architecture of an IT system to provide energy-as-a-service for PHEVs and power producers using the notion of a token as its internal currency.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] became an important research area during the [....].</text>
                 <example>The hybridization between fuzzy system and genetic algorithm became an important research area during the last decade.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>At the present, it is a mature research area, where researchers need to reflect in order to advance towards strengths and distinctive features of [....].</text>
                 <example>At the present, it is a mature research area, where researchers need to reflect in order to advance towards strengths and distinctive features of the genetic algorithm.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Over the last years, interest in [....] has risen amongst researchers in [....].</text>
                 <example>Over the last years, interest in evolutionary computation has risen among researchers in power systems and related fields.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Most of the applications are based on [....], which are a very attractive technique because of their ease of use and flexibility, allowing the utilization of [....] software widely available.</text>
                 <example>Most of the applications are based on genetic algorithm, which are a very attractive technique because of their ease of use and flexibility, allowing the utilization of generic optimization software widely available.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] are newest techniques which, in spite of not being completely mature, show immense potential in [....].</text>
                 <example>Genetic programming and classifier systems are newest techniques which, in spite of not being completely mature, show immense potential in power systems problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Clearly, there are many important open research issues for the realization of [....].</text>
                 <example>Clearly, there are many important open research issues for the realization of smart grid communications and applications.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this [....], we provided a comprehensive overview on the applications of [....] in [....].</text>
                 <example>In this survey, we provided a comprehensive overview on the applications of game theory in smart grid networks.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] applications were carefully drawn from a broad range of problems spanning emerging areas such as [....].</text>
                 <example>The smart grid applications were carefully drawn from a broad range of problems spanning emerging areas such as micro-grids, demand-side management, and communications.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In each area, we have identified the main technical challenges and presented an elaborate discussion on how [....] can be applied to address these challenges.</text>
                 <example>In each area, we have identified the main technical challenges and presented an elaborate discussion on how game theory can be applied to address these challenges.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Moreover, we proposed several future directions for extending these approaches and adopting advanced [....] techniques, so as to reduce the gap between theoretical models and practical implementations of [....].</text>
                 <example>Moreover, we proposed several future directions for extending these approaches and adopting advanced game theoretic techniques, so as to reduce the gap between theoretical models and practical implementations of future smart grids.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>However, we also note that many of the existing works have focused on [....].</text>
                 <example>However, we also note that many of the existing works have focused on classical static noncooperative games.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="interpretation of the main findings">
-            <entry>
+            <sentence>
                 <text>Its [....] characteristics is acceptable although it does not guarantee [....].</text>
                 <example>Its convergence characteristics is acceptable although it does not guarantee convergence to the global optimum.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] showed to be efficient, and good final results were obtained with [....].</text>
                 <example>The neighborhood limitation criterion adopted showed to be efficient, and good final results were obtained with small number of neighbor configurations.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The proposed [....] showed to be efficient and good quality configurations were obtained for [....].</text>
                 <example>The proposed algorithm showed to be efficient and good quality configurations were obtained for all tested systems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This approach has all the advantages already demonstrated by [....] like, for example, [....].</text>
                 <example>This approach has all the advantages already demonstrated by genetic algorithm like, for example, allowing the inclusion of non-linearities in a discrete, complex enviroment.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] results being produced by [....] will inevitably lead to more practical applications and to a better understanding of the advantages and weaknesses of these types of approaches.</text>
                 <example>The excellent results being produced by genetic algorithm will inevitably lead to more practical applications and to a better understanding of the advantages and weaknesses of these types of approaches.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This indicate that the [....] can be easily adapted for [....].</text>
                 <example>This indicate that the algorithm can be easily adapted for hybridization with other techniques.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This will also enhance the opportunity for the use of [....] combining the potential of [....].</text>
                 <example>This will also enhance the opportunity for the use of hybrid systems combining the potential of versatile tools with conventional problem-solving algorithms.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This illustrates the capability of a [....] as a technology for [....].</text>
                 <example>This illustrates the capability of a multi-agent system as a technology for managing the microgrid operation.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This demonstrates that the [....] can be considered as a [....] alternative to a [....] for [....].</text>
                 <example>This demonstrates that the agent's capability can be considered as a software alternative to a traditional hardware-based zonal protection system for isolating a microgrid.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>It seems that the use of [....] does significantly [....] required to obtain a good [....].</text>
                 <example>It seems that the use of the extraction process does significantly reduced the number of generations required to obtain a good set of rules.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The experiments have shown that the [....] does have some advantages in terms of [....].</text>
                 <example>The experiments have shown that the fuzzy genetic algorithm does have some advantages in terms of effectiveness.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>However, more research is needed to further improve the [....] and to extend it to a [....].</text>
                 <example>However, more research is needed to further improve the algorithm and to extend it to a more general situation.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] form an appropriate technology to solve the resulting [....].</text>
                 <example>Multi-agent technology and electronic markets form an appropriate technology to solve the resulting coordination problem.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Essentially, from the [....], we can clearly note that [....] has a strong potential to provide solutions for pertinent problems in [....] but also faces many [....] challenges.</text>
                 <example>Essentially, from the surveyed works, we can clearly note that game theory has a strong potential to provide solutions for pertinent problems in smart grids but also faces many design challenges.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Hence, for future works, it is of interest to investigate [....] and their applications in [....].</text>
                 <example>Hence, for future works, it is of interest to investigate dynamic game models and their applications in smart grid systems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The primary observation from the simulations is that we are able to get a [....] for a [....].</text>
                 <example>The primary observation from the simulations is that we are able to get a fairly high level of utilization (> 95%) for a multi-tude of power stations.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Secondly, the performance of [....] expressed in terms of the [....], is very [....] to the [....].</text>
                 <example>Secondly, the performance of scheduling expressed in terms of the utilization of genTokens and the admission rate of consTokens, is very sensitive to the choice of the number of slots, the durations of the tokens, and its validity period.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In comparison, the [....] is [....] to the [....].</text>
                 <example>In comparison, the service quality is moderately sensitive to the scheduling and splitting policies.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="contributions">
-            <entry>
+            <sentence>
                 <text>In this paper, the authors proposed a new [....].</text>
                 <example>In this paper, the authors proposed a new power distribution system named FRIENDS.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] method introduced in this paper has the following appealing properties: [....].</text>
                 <example>The search method introduced in this paper has the following appealing properties: it is not exhaustive, and its involves about m power flow solutions.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] aims at a [....] by [....].</text>
                 <example>The FRIENDS aims at a reliable power distribution system by flexibly changing the system structure.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>[....] are the other important characteristics of [....].</text>
                 <example>Multi-quality supply and custmer information service are the other important characteristic of the FRIENDS.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Our research demonstrates that a [....] approach is feasible and has also excellent potential in some [....] problems.</text>
                 <example>Our research demonstrates that a mutational-based evolutionary programming approach is feasible and has also excellent potential in some combinatorial problems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>As an example, the paper also describes and presents some interesting results on a [....] approach to the [....].</text>
                 <example>As an example, the paper also describes and presents some interesting results on a genetic algorithm approach to the planning of the operation of a hydrothermal system.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In this paper, [....] technologies and requirements for [....] have been discussed.</text>
                 <example>In this paper, communications technologies and requirements for smart grid have been discussed.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] is introduced and [....] are presented.</text>
                 <example>The QoS mechanism is introduced and standards are presented.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>It seems that the use of [....] does significantly [....] required to obtain a good [....].</text>
                 <example>It seems that the use of the extraction process does significantly reduced the number of generations required to obtain a good set of rules.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The [....] proposed in this article is a [....] for [....] in [....].</text>
                 <example>The PowerMatcher concept proposed in this article is a market-based control concept for supply and demand matching in electricity networks.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The presented simulation case shows that this concept is capable of [....] on [....].</text>
                 <example>The presented simulation case shows that this concept is capable of utilizing flexibility in device operation via software agent bids on an electronic power market.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In a nutshell, this paper presented a comprehensive overview on the potential of applying [....] within [....].</text>
                 <example>In a nutshell, this paper presented a comprehensive overview on the potential of applying game theory within future smart grid systems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Clearly, [....] will constitute a strong tool for designing [....] that can fulfill the promise of a completely integrated solution and satisfy the [....] paradigm.</text>
                 <example>Clearly, game theory will constitute a strong tool for designing future smart grid systems that can fulfill the promise of a completely integrated solution and satisfy the “sense, communicate, computer, control” paradigm.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Main advantages of the proposed solution scheme, which have been shown by means of a [....] case study, is the [....].</text>
                 <example>Main advantages of the proposed solution scheme, which have been shown by means of a realistic case study, is the early bad data processing capability for each subsystem during the decoupled solution phase.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="further works">
-            <entry>
+            <sentence>
                 <text>The next part of this project will [....].</text>
                 <example>The next part of this project will scale the microgrid installing 20 kW in two wind turbines.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Thus, we will investigate whether our [....] approach can be used to [....].</text>
                 <example>Thus, we will investigate whether our agent-based management approach can be used to flatten peaks locally.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>As part of this work, we also intend to investigate the [....] for [....].</text>
                 <example>As part of this work, we also intend to investigate the market efficient for different proportions of the population adopting micro-storage devices.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>An area of future research is [....] using [....].</text>
                 <example>An area of future research is the smart grid simulation using multi-agent system.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This indicate that the [....] can be easily adapted for [....].</text>
                 <example>This indicate that the algorithm can be easily adapted for hybridization with other techniques.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Future work includes [....].</text>
                 <example>Future work includes discussion of grid characteristics, architetures, key players, and research challenges.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This indicate that, for future works, it is of interest to investigate [....] and their applications in [....].</text>
                 <example>This indicate that, for future works, it is of interest to investigate dynamic game models and their applications in smart grid systems.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>As a part of future work, we plan [....].</text>
                 <example>As a part of future work, we plan to generalize it to much larger utility networks, and incorporate many more sources of renewable energy.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>In order to further analyze the [....] of the [....] under more [....] conditions, the authors will expand the presented model by [....].</text>
                 <example>In order to further analyze the robustness of the multi-agent coordination algorithm under more realistic conditions, the authors will expand the presented model by adding communication simulator.</example>
-            </entry>
+            </sentence>
         </subsection>
     </section>
     <section type="acknowledgement">
         <subsection type="support">
-            <entry>
+            <sentence>
                 <text>This work was supported by [....]. This support is greatfully acknowledged.</text>
                 <example>This work was supported by the Natural Sciences and Engineering Research Council of Canada (NRERC) under grants 227837-04 and 39682-05. This support is greatfully acknowledged.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The authors acknowledges to [....] for financial support.</text>
                 <example>The authors acknowledges to CERN for financial support to this research.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The authors acknowledged the financial support provided by [....].</text>
                 <example>The authors acknowledged the financial support provided by CAPES.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This research is supported by [....].</text>
                 <example>This research is supported by TUBITAK-TURKEY Foundation.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This research was supported by [....].</text>
                 <example>This research was supported by National Science Foundation.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The authors thank the support of [....] for supporting this research.</text>
                 <example>The authors thank the support of CONACYT and PROMEP for supporting this research.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>This work was prepared in part for the [....], as part of [....] project, sponsored by [....].</text>
                 <example>This work was prepared in part for the Force on Organizational Decision support Systems (ODSS), as part of the Information Systems and Decision Processes (ISDP) project, sponsored by The Institute of Management Sciences (TIMS) and the National Science Foundation.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The financial supports of the research in the paper from [....], under the Grant No. [....], are greatly acknowledged.</text>
                 <example>The financial supports of the research in the paper from National Science Council, Taiwan, under the Grant No. NSC-97-2221-E-006-273-MY3, are greatly acknowledged.</example>
-            </entry>
+            </sentence>
         </subsection>
         <subsection type="suggestions">
-            <entry>
+            <sentence>
                 <text>The author acknowledges the invaluable insights provided by [....], and also the help of the anonymous referees who gave comments on earlier versions of this work.</text>
                 <example>The author acknowledges the invaluable insights provided by the late Francis Edward Lewis, and also the help of the anonymous referees who gave comments on earlier versions of this work.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The helpful comments and suggestions by [....] are gratefully acknowledged.</text>
                 <example>The helpful comments and suggestions by the anonymous reviewers are gratefully acknowledged.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The research assistance of [....] is gratefully acknowledged.</text>
                 <example>The research assistance of Mary K. Lee is gratefully acknowledged.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>Comments from [....] was helpful in revising the present paper.</text>
                 <example>Comments from Mark S. Silver and four anonymous reviewers were helpful in revising the present paper.</example>
-            </entry>
-            <entry>
+            </sentence>
+            <sentence>
                 <text>The authors would like to thank to [....] for their comments and help in [....].</text>
                 <example>The authors would like to thank to Ruck Thawonmas and Awng Thein for their comments and help in computer simulation.</example>
-            </entry>
+            </sentence>
         </subsection>
     </section>
 </saurus>
