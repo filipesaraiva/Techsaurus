@@ -7,8 +7,8 @@
 -->
 
 <saurus>
-    <section type="abstract">
-        <subsection type="contextualization">
+    <section type="Abstract">
+        <subsection type="Conextualization">
             <sentence>
                 <text>There has been much recent discussion on what [....] can and should look like in the future.</text>
                 <example>There has been much recent discussion on what distribution systems can and should look like in the future.</example>
@@ -58,7 +58,7 @@
                 <example>This article presents an efficient metaheuristic method for reconfiguration of distribution systems.</example>
             </sentence>
         </subsection>
-        <subsection type="gap">
+        <subsection type="Gap">
             <sentence>
                 <text>Functionally, a [....] should be able to provide new abilities such as [....].</text>
                 <example>Functionally, a Smart Grid should be able to provide new abilities such as self-healing, high reliability, energy management, and real-time pricing.</example>
@@ -84,7 +84,7 @@
                 <example>Moreover, even less effort has been devoted to discussing the inherent disadvantages that stem from adopting as agent-oriented view.</example>
             </sentence>
         </subsection>
-        <subsection type="purpose">
+        <subsection type="Purpose">
             <sentence>
                 <text>This paper discussed the potential impact that issues related to [....] will have on [....].</text>
                 <example>This paper discussed the potential impact that issues related to Smart Grid will have on distribution system design.</example>
@@ -126,7 +126,7 @@
                 <example>This paper surveys recent research on programming languages and development tools for multi-agent systems.</example>
             </sentence>
         </subsection>
-        <subsection type="methodology">
+        <subsection type="Methodology">
             <sentence>
                 <text>Its [....] complexities are evaluated.</text>
                 <example>Its time and message complexities are evaluated.</example>
@@ -160,7 +160,7 @@
                 <example>Test results are included to show the performance of the proposed method.</example>
             </sentence>
         </subsection>
-        <subsection type="results">
+        <subsection type="Results">
             <sentence>
                 <text>Results are presented for [....] with [....].</text>
                 <example>Results are presented for realistic systems with 135 and 202 buses.</example>
@@ -170,7 +170,7 @@
                 <example>Test results are included to show the performance of the proposed method.</example>
             </sentence>
         </subsection>
-        <subsection type="conclusion">
+        <subsection type="Conclusion">
             <sentence>
                 <text>This summary will facilitate the comparative evaluation of [....], allowing [....] to first recognize the spectrum of possibilities, and then guiding the selection of an appropriate [....] for a particular domain and enviroment.</text>
                 <example>This summary will facilitate the comparative evaluation of organizational styles, allowing designers to first recognize the spectrum of possibilities, and then guiding the selection of an appropriate organizational design for a particular domain and enviroment.</example>
@@ -185,8 +185,8 @@
             </sentence>
         </subsection>
     </section>
-    <section type="introduction">
-        <subsection type="contextualization">
+    <section type="Introduction">
+        <subsection type="Contextualization">
             <sentence>
                 <text>In [....], [....] are used for [....].</text>
                 <example>In primary distribution systems, sectionalizing switches are used for protection, and to isolate a fault.</example>
@@ -244,7 +244,7 @@
                 <example>The theory of stable matching has received a tremendous amount of attention because of its many applications, including matching graduating medical students to residency programs, and matching kidney donors with recipients.</example>
             </sentence>
         </subsection>
-        <subsection type="gap">
+        <subsection type="Gap">
             <sentence>
                 <text>While several improvements may reduce the computational cost of [....], this approach becomes quickly impratical in [....].</text>
                 <example>While several improvements may reduce the computational cost of mathematical programming, this approach becomes quickly impratical in mosts cases.</example>
@@ -278,7 +278,7 @@
                 <example>However, as a search tree becomes larger, a great amount of time can be spent searching for the optimal solution.</example>
             </sentence>
         </subsection>
-        <subsection type="state of the art">
+        <subsection type="State of Art">
             <sentence>
                 <text>The early studies on [....] were directed to [....].</text>
                 <example>The early studies on the network reconfiguration were directed to the planning stage.</example>
@@ -332,7 +332,7 @@
                 <example>Some of the most recent work [10, 11, 12] has implemented a multi-agent system to control microgrid generatiors.</example>
             </sentence>
         </subsection>
-        <subsection type="importance">
+        <subsection type="Importance">
             <sentence>
                 <text>Consequently, a [....] is urgently needed to address these challenges.</text>
                 <example>Consequently, a new grid infrastructure is urgently needed to address these challenges.</example>
@@ -366,7 +366,7 @@
                 <example>The theory of stable matching has received a tremendous amount of attention because of its many applications, including matching graduating medical students to residency programs, and matching kidney donors with recipients.</example>
             </sentence>
         </subsection>
-        <subsection type="purpose">
+        <subsection type="Purpose">
             <sentence>
                 <text>The focus of this paper is to discuss the design and implementation of [....] in the context of [....].</text>
                 <example>The focus of this paper is to discuss the design and implementation of a multi-agent system in the context of a distributed smart grid.</example>
@@ -396,7 +396,7 @@
                 <example>This paper provides an overview and a list of references on the use of evolutionary algorithms in power systems and related fields.</example>
             </sentence>
         </subsection>
-        <subsection type="organization">
+        <subsection type="Organization">
             <sentence>
                 <text>The organization of the rest of the paper is as follows. [....]. Conclusions are given in section [....].</text>
                 <example>The organization of the rest of the paper is as follows. The method is presented in section 2. Conclusions are given in section 3.</example>
@@ -411,8 +411,8 @@
             </sentence>
         </subsection>
     </section>
-    <section type="results and discussion">
-        <subsection type="background">
+    <section type="Results and Discussion">
+        <subsection type="Background">
             <sentence>
                 <text>The [....] are [....] related in the sense that they aim to [....] with [....].</text>
                 <example>The OR methods are all related in the sense that they aim to help decisions makers with complex decisions.</example>
@@ -470,7 +470,7 @@
                 <example>Research by NASA into autonomous spacecraft has also produced some interesting techniques for implementing remote agents that aim to display a greater degree of autonomy.</example>
             </sentence>
         </subsection>
-        <subsection type="interpretation">
+        <subsection type="Interpretation">
             <sentence>
                 <text>Its [....] characteristics is acceptable although it does not guarantee [....].</text>
                 <example>Its convergence characteristics is acceptable although it does not guarantee convergence to the global optimum.</example>
@@ -504,7 +504,7 @@
                 <example>We can see that proposed modified Hopfield model can find near optimal solution and the performance is also comparable to best known heuristics.</example>
             </sentence>
         </subsection>
-        <subsection type="describe the outcomes of your research">
+        <subsection type="Describe the Outcomes of Research">
             <sentence>
                 <text>Fig. [....] shows the [....] for [....].</text>
                 <example>Fig. 6 shows the power supply for the month of december in 2009.</example>
@@ -538,7 +538,7 @@
                 <example>Compared to heuristic algorithms in the literature, the simulation results of three case studies are by Table 2.</example>
             </sentence>
         </subsection>
-        <subsection type="computational simulations and implementation">
+        <subsection type="Computational Simulations and Implementation">
             <sentence>
                 <text>Simulation studies were carried out on a [....].</text>
                 <example>Simulation studies were carried out on a 750 kW residential microgrid.</example>
@@ -576,7 +576,7 @@
                 <example>The network models which were used for dynamic simulations of the coordination system are equipped with the following dynamic components:</example>
             </sentence>
         </subsection>
-        <subsection type="comparison">
+        <subsection type="Comparison">
             <sentence>
                 <text>From the computational tests results, it is observed that the [....] of [....] is better than [....].</text>
                 <example>From the computational testes results, it is observed that the convergence property of ant colony method is better than that of other methods.</example>
@@ -598,7 +598,7 @@
                 <example>We compare the cost of tree computed by using proposed modified Hopfield model with other existing heuristics and optimal solution.</example>
             </sentence>
         </subsection>
-        <subsection type="implications">
+        <subsection type="Implications">
             <sentence>
                 <text>We conclude from these results that the [....] generally pays off in terms of [....], while incurring in a [....].</text>
                 <example>We conclude from these results that the use of filtering generally pays off in terms of solution quality, while incurring in a typically small computation time overhead.</example>
@@ -617,8 +617,8 @@
             </sentence>
         </subsection>
     </section>
-    <section type="conclusion">
-        <subsection type="state main findings">
+    <section type="Conclusion">
+        <subsection type="State Main Findings">
             <sentence>
                 <text>This paper focuses on [....], for the particular configuration arising in [....].</text>
                 <example>This paper focuses on the SSE tool, for the particular configuration arising in distribution substations directly feeding MV radial feeders.</example>
@@ -672,7 +672,7 @@
                 <example>However, we also note that many of the existing works have focused on classical static noncooperative games.</example>
             </sentence>
         </subsection>
-        <subsection type="interpretation of the main findings">
+        <subsection type="Interpretation of Main Findings">
             <sentence>
                 <text>Its [....] characteristics is acceptable although it does not guarantee [....].</text>
                 <example>Its convergence characteristics is acceptable although it does not guarantee convergence to the global optimum.</example>
@@ -746,7 +746,7 @@
                 <example>In comparison, the service quality is moderately sensitive to the scheduling and splitting policies.</example>
             </sentence>
         </subsection>
-        <subsection type="contributions">
+        <subsection type="Contributions">
             <sentence>
                 <text>In this paper, the authors proposed a new [....].</text>
                 <example>In this paper, the authors proposed a new power distribution system named FRIENDS.</example>
@@ -804,7 +804,7 @@
                 <example>Main advantages of the proposed solution scheme, which have been shown by means of a realistic case study, is the early bad data processing capability for each subsystem during the decoupled solution phase.</example>
             </sentence>
         </subsection>
-        <subsection type="further works">
+        <subsection type="Further Works">
             <sentence>
                 <text>The next part of this project will [....].</text>
                 <example>The next part of this project will scale the microgrid installing 20 kW in two wind turbines.</example>
@@ -843,8 +843,8 @@
             </sentence>
         </subsection>
     </section>
-    <section type="acknowledgement">
-        <subsection type="support">
+    <section type="Acknowledgement">
+        <subsection type="Support">
             <sentence>
                 <text>This work was supported by [....]. This support is greatfully acknowledged.</text>
                 <example>This work was supported by the Natural Sciences and Engineering Research Council of Canada (NRERC) under grants 227837-04 and 39682-05. This support is greatfully acknowledged.</example>
@@ -878,7 +878,7 @@
                 <example>The financial supports of the research in the paper from National Science Council, Taiwan, under the Grant No. NSC-97-2221-E-006-273-MY3, are greatly acknowledged.</example>
             </sentence>
         </subsection>
-        <subsection type="suggestions">
+        <subsection type="Suggestions">
             <sentence>
                 <text>The author acknowledges the invaluable insights provided by [....], and also the help of the anonymous referees who gave comments on earlier versions of this work.</text>
                 <example>The author acknowledges the invaluable insights provided by the late Francis Edward Lewis, and also the help of the anonymous referees who gave comments on earlier versions of this work.</example>
